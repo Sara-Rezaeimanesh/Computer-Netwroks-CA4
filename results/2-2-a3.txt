@@ -1,0 +1,6375 @@
+PC A number 3 is Running...
+683
+sending packet with sequence number 1
+sending packet with sequence number 2
+sending packet with sequence number 3
+sending packet with sequence number 4
+time out occured!
+
+sending packet with sequence number 1
+sending packet with sequence number 2
+time out occured!
+
+sending packet with sequence number 1
+ack received for packet 1
+
+sliding the window to the right...
+sending packet with sequence number 2
+ack received for packet 2
+
+sliding the window to the right...
+sending packet with sequence number 3
+sending packet with sequence number 4
+sending packet with sequence number 5
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+time out occured!
+
+sending packet with sequence number 3
+ack received for packet 3
+
+sliding the window to the right...
+sending packet with sequence number 4
+sending packet with sequence number 5
+time out occured!
+
+sending packet with sequence number 4
+time out occured!
+
+sending packet with sequence number 4
+ack received for packet 4
+
+sliding the window to the right...
+sending packet with sequence number 5
+sending packet with sequence number 6
+time out occured!
+
+sending packet with sequence number 5
+time out occured!
+
+sending packet with sequence number 5
+ack received for packet 5
+
+sliding the window to the right...
+sending packet with sequence number 6
+sending packet with sequence number 7
+time out occured!
+
+sending packet with sequence number 6
+ack received for packet 6
+
+sliding the window to the right...
+sending packet with sequence number 7
+sending packet with sequence number 8
+time out occured!
+
+sending packet with sequence number 7
+ack received for packet 7
+
+sliding the window to the right...
+sending packet with sequence number 8
+sending packet with sequence number 9
+ack received for packet 8
+
+sliding the window to the right...
+sending packet with sequence number 10
+sending packet with sequence number 11
+time out occured!
+
+sending packet with sequence number 9
+time out occured!
+
+sending packet with sequence number 9
+ack received for packet 9
+
+sliding the window to the right...
+sending packet with sequence number 10
+sending packet with sequence number 11
+ack received for packet 10
+
+sliding the window to the right...
+ack received for packet 11
+
+sliding the window to the right...
+sending packet with sequence number 12
+sending packet with sequence number 13
+sending packet with sequence number 14
+sending packet with sequence number 15
+ack received for packet 12
+
+sliding the window to the right...
+ack received for packet 13
+
+sliding the window to the right...
+ack received for packet 14
+
+sliding the window to the right...
+sending packet with sequence number 16
+sending packet with sequence number 17
+sending packet with sequence number 18
+ack received for packet 15
+
+sliding the window to the right...
+sending packet with sequence number 19
+time out occured!
+
+sending packet with sequence number 16
+sending packet with sequence number 17
+time out occured!
+
+sending packet with sequence number 16
+ack received for packet 16
+
+sliding the window to the right...
+sending packet with sequence number 17
+sending packet with sequence number 18
+ack received for packet 17
+
+sliding the window to the right...
+sending packet with sequence number 19
+sending packet with sequence number 20
+ack received for packet 18
+
+sliding the window to the right...
+sending packet with sequence number 21
+sending packet with sequence number 22
+time out occured!
+
+sending packet with sequence number 19
+sending packet with sequence number 20
+time out occured!
+
+sending packet with sequence number 19
+ack received for packet 19
+
+sliding the window to the right...
+sending packet with sequence number 20
+sending packet with sequence number 21
+time out occured!
+
+sending packet with sequence number 20
+time out occured!
+
+sending packet with sequence number 20
+time out occured!
+
+sending packet with sequence number 20
+time out occured!
+
+sending packet with sequence number 20
+time out occured!
+
+sending packet with sequence number 20
+time out occured!
+
+sending packet with sequence number 20
+ack received for packet 20
+
+sliding the window to the right...
+sending packet with sequence number 21
+sending packet with sequence number 22
+ack received for packet 21
+
+sliding the window to the right...
+ack received for packet 22
+
+sliding the window to the right...
+sending packet with sequence number 23
+sending packet with sequence number 24
+sending packet with sequence number 25
+sending packet with sequence number 26
+ack received for packet 23
+
+sliding the window to the right...
+ack received for packet 24
+
+sliding the window to the right...
+sending packet with sequence number 27
+sending packet with sequence number 28
+ack received for packet 25
+
+sliding the window to the right...
+sending packet with sequence number 29
+time out occured!
+
+sending packet with sequence number 26
+sending packet with sequence number 27
+ack received for packet 26
+
+sliding the window to the right...
+sending packet with sequence number 28
+ack received for packet 27
+
+sliding the window to the right...
+ack received for packet 28
+
+sliding the window to the right...
+sending packet with sequence number 29
+sending packet with sequence number 30
+sending packet with sequence number 31
+sending packet with sequence number 32
+time out occured!
+
+sending packet with sequence number 29
+sending packet with sequence number 30
+ack received for packet 29
+
+sliding the window to the right...
+ack received for packet 30
+
+sliding the window to the right...
+sending packet with sequence number 31
+sending packet with sequence number 32
+sending packet with sequence number 33
+sending packet with sequence number 34
+ack received for packet 32
+
+ack received for packet 33
+
+ack received for packet 34
+
+time out occured!
+
+sending packet with sequence number 31
+sending packet with sequence number 32
+time out occured!
+
+sending packet with sequence number 31
+time out occured!
+
+sending packet with sequence number 31
+time out occured!
+
+sending packet with sequence number 31
+time out occured!
+
+sending packet with sequence number 31
+time out occured!
+
+sending packet with sequence number 31
+ack received for packet 31
+
+sliding the window to the right...
+sending packet with sequence number 32
+sending packet with sequence number 33
+time out occured!
+
+sending packet with sequence number 32
+time out occured!
+
+sending packet with sequence number 32
+time out occured!
+
+sending packet with sequence number 32
+ack received for packet 32
+
+sliding the window to the right...
+sending packet with sequence number 33
+sending packet with sequence number 34
+ack received for packet 34
+
+time out occured!
+
+sending packet with sequence number 33
+ack received for packet 33
+
+sliding the window to the right...
+sending packet with sequence number 34
+sending packet with sequence number 35
+time out occured!
+
+sending packet with sequence number 34
+time out occured!
+
+sending packet with sequence number 34
+time out occured!
+
+sending packet with sequence number 34
+time out occured!
+
+sending packet with sequence number 34
+time out occured!
+
+sending packet with sequence number 34
+time out occured!
+
+sending packet with sequence number 34
+ack received for packet 34
+
+sliding the window to the right...
+sending packet with sequence number 35
+sending packet with sequence number 36
+time out occured!
+
+sending packet with sequence number 35
+time out occured!
+
+sending packet with sequence number 35
+time out occured!
+
+sending packet with sequence number 35
+ack received for packet 35
+
+sliding the window to the right...
+sending packet with sequence number 36
+sending packet with sequence number 37
+ack received for packet 36
+
+sliding the window to the right...
+sending packet with sequence number 38
+ack received for packet 37
+
+sliding the window to the right...
+sending packet with sequence number 39
+sending packet with sequence number 40
+sending packet with sequence number 41
+time out occured!
+
+sending packet with sequence number 38
+sending packet with sequence number 39
+time out occured!
+
+sending packet with sequence number 38
+ack received for packet 38
+
+sliding the window to the right...
+sending packet with sequence number 39
+sending packet with sequence number 40
+time out occured!
+
+sending packet with sequence number 39
+time out occured!
+
+sending packet with sequence number 39
+ack received for packet 39
+
+sliding the window to the right...
+sending packet with sequence number 40
+sending packet with sequence number 41
+time out occured!
+
+sending packet with sequence number 40
+ack received for packet 40
+
+sliding the window to the right...
+sending packet with sequence number 41
+sending packet with sequence number 42
+ack received for packet 41
+
+sliding the window to the right...
+sending packet with sequence number 43
+sending packet with sequence number 44
+ack received for packet 42
+
+sliding the window to the right...
+sending packet with sequence number 45
+sending packet with sequence number 46
+ack received for packet 43
+
+sliding the window to the right...
+ack received for packet 44
+
+sliding the window to the right...
+sending packet with sequence number 47
+sending packet with sequence number 48
+time out occured!
+
+sending packet with sequence number 45
+sending packet with sequence number 46
+ack received for packet 45
+
+sliding the window to the right...
+sending packet with sequence number 47
+sending packet with sequence number 48
+ack received for packet 46
+
+sliding the window to the right...
+sending packet with sequence number 49
+sending packet with sequence number 50
+ack received for packet 47
+
+sliding the window to the right...
+sending packet with sequence number 51
+ack received for packet 48
+
+sliding the window to the right...
+sending packet with sequence number 52
+time out occured!
+
+sending packet with sequence number 49
+sending packet with sequence number 50
+ack received for packet 49
+
+sliding the window to the right...
+sending packet with sequence number 51
+sending packet with sequence number 52
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+time out occured!
+
+sending packet with sequence number 50
+ack received for packet 50
+
+sliding the window to the right...
+sending packet with sequence number 51
+sending packet with sequence number 52
+time out occured!
+
+sending packet with sequence number 51
+time out occured!
+
+sending packet with sequence number 51
+ack received for packet 51
+
+sliding the window to the right...
+sending packet with sequence number 52
+sending packet with sequence number 53
+ack received for packet 52
+
+sliding the window to the right...
+sending packet with sequence number 54
+sending packet with sequence number 55
+time out occured!
+
+sending packet with sequence number 53
+time out occured!
+
+sending packet with sequence number 53
+time out occured!
+
+sending packet with sequence number 53
+ack received for packet 53
+
+sliding the window to the right...
+sending packet with sequence number 54
+sending packet with sequence number 55
+ack received for packet 54
+
+sliding the window to the right...
+sending packet with sequence number 56
+sending packet with sequence number 57
+ack received for packet 56
+
+time out occured!
+
+sending packet with sequence number 55
+ack received for packet 55
+
+sliding the window to the right...
+sending packet with sequence number 56
+sending packet with sequence number 57
+ack received for packet 56
+
+sliding the window to the right...
+ack received for packet 57
+
+sliding the window to the right...
+sending packet with sequence number 58
+sending packet with sequence number 59
+sending packet with sequence number 60
+sending packet with sequence number 61
+time out occured!
+
+sending packet with sequence number 58
+sending packet with sequence number 59
+time out occured!
+
+sending packet with sequence number 58
+time out occured!
+
+sending packet with sequence number 58
+ack received for packet 58
+
+sliding the window to the right...
+sending packet with sequence number 59
+sending packet with sequence number 60
+time out occured!
+
+sending packet with sequence number 59
+time out occured!
+
+sending packet with sequence number 59
+time out occured!
+
+sending packet with sequence number 59
+ack received for packet 59
+
+sliding the window to the right...
+sending packet with sequence number 60
+ack received for packet 60
+
+sliding the window to the right...
+sending packet with sequence number 61
+sending packet with sequence number 62
+sending packet with sequence number 63
+time out occured!
+
+sending packet with sequence number 61
+time out occured!
+
+sending packet with sequence number 61
+ack received for packet 61
+
+sliding the window to the right...
+sending packet with sequence number 62
+sending packet with sequence number 63
+time out occured!
+
+sending packet with sequence number 62
+ack received for packet 62
+
+sliding the window to the right...
+sending packet with sequence number 63
+ack received for packet 63
+
+sliding the window to the right...
+sending packet with sequence number 64
+sending packet with sequence number 65
+sending packet with sequence number 66
+ack received for packet 64
+
+sliding the window to the right...
+ack received for packet 65
+
+sliding the window to the right...
+sending packet with sequence number 67
+sending packet with sequence number 68
+sending packet with sequence number 69
+time out occured!
+
+sending packet with sequence number 66
+sending packet with sequence number 67
+time out occured!
+
+sending packet with sequence number 66
+time out occured!
+
+sending packet with sequence number 66
+ack received for packet 66
+
+sliding the window to the right...
+sending packet with sequence number 67
+sending packet with sequence number 68
+time out occured!
+
+sending packet with sequence number 67
+ack received for packet 67
+
+sliding the window to the right...
+sending packet with sequence number 68
+sending packet with sequence number 69
+time out occured!
+
+sending packet with sequence number 68
+ack received for packet 68
+
+sliding the window to the right...
+sending packet with sequence number 69
+sending packet with sequence number 70
+ack received for packet 69
+
+sliding the window to the right...
+ack received for packet 70
+
+sliding the window to the right...
+sending packet with sequence number 71
+sending packet with sequence number 72
+sending packet with sequence number 73
+sending packet with sequence number 74
+time out occured!
+
+sending packet with sequence number 71
+sending packet with sequence number 72
+ack received for packet 71
+
+sliding the window to the right...
+ack received for packet 72
+
+sliding the window to the right...
+sending packet with sequence number 73
+sending packet with sequence number 74
+sending packet with sequence number 75
+sending packet with sequence number 76
+time out occured!
+
+sending packet with sequence number 73
+sending packet with sequence number 74
+time out occured!
+
+sending packet with sequence number 73
+ack received for packet 73
+
+sliding the window to the right...
+sending packet with sequence number 74
+sending packet with sequence number 75
+ack received for packet 74
+
+sliding the window to the right...
+sending packet with sequence number 76
+sending packet with sequence number 77
+time out occured!
+
+sending packet with sequence number 75
+ack received for packet 75
+
+sliding the window to the right...
+sending packet with sequence number 76
+sending packet with sequence number 77
+time out occured!
+
+sending packet with sequence number 76
+ack received for packet 76
+
+sliding the window to the right...
+sending packet with sequence number 77
+sending packet with sequence number 78
+time out occured!
+
+sending packet with sequence number 77
+ack received for packet 77
+
+sliding the window to the right...
+sending packet with sequence number 78
+sending packet with sequence number 79
+time out occured!
+
+sending packet with sequence number 78
+time out occured!
+
+sending packet with sequence number 78
+ack received for packet 78
+
+sliding the window to the right...
+sending packet with sequence number 79
+sending packet with sequence number 80
+time out occured!
+
+sending packet with sequence number 79
+time out occured!
+
+sending packet with sequence number 79
+time out occured!
+
+sending packet with sequence number 79
+time out occured!
+
+sending packet with sequence number 79
+ack received for packet 79
+
+sliding the window to the right...
+sending packet with sequence number 80
+sending packet with sequence number 81
+time out occured!
+
+sending packet with sequence number 80
+ack received for packet 80
+
+sliding the window to the right...
+sending packet with sequence number 81
+sending packet with sequence number 82
+ack received for packet 81
+
+sliding the window to the right...
+ack received for packet 82
+
+sliding the window to the right...
+sending packet with sequence number 83
+sending packet with sequence number 84
+sending packet with sequence number 85
+sending packet with sequence number 86
+time out occured!
+
+sending packet with sequence number 83
+sending packet with sequence number 84
+time out occured!
+
+sending packet with sequence number 83
+time out occured!
+
+sending packet with sequence number 83
+time out occured!
+
+sending packet with sequence number 83
+time out occured!
+
+sending packet with sequence number 83
+ack received for packet 83
+
+sliding the window to the right...
+sending packet with sequence number 84
+sending packet with sequence number 85
+time out occured!
+
+sending packet with sequence number 84
+ack received for packet 84
+
+sliding the window to the right...
+sending packet with sequence number 85
+sending packet with sequence number 86
+time out occured!
+
+sending packet with sequence number 85
+time out occured!
+
+sending packet with sequence number 85
+ack received for packet 85
+
+sliding the window to the right...
+sending packet with sequence number 86
+ack received for packet 86
+
+sliding the window to the right...
+sending packet with sequence number 87
+sending packet with sequence number 88
+sending packet with sequence number 89
+time out occured!
+
+sending packet with sequence number 87
+time out occured!
+
+sending packet with sequence number 87
+ack received for packet 87
+
+sliding the window to the right...
+sending packet with sequence number 88
+sending packet with sequence number 89
+ack received for packet 88
+
+sliding the window to the right...
+ack received for packet 89
+
+sliding the window to the right...
+sending packet with sequence number 90
+sending packet with sequence number 91
+sending packet with sequence number 92
+sending packet with sequence number 93
+time out occured!
+
+sending packet with sequence number 90
+sending packet with sequence number 91
+time out occured!
+
+sending packet with sequence number 90
+time out occured!
+
+sending packet with sequence number 90
+time out occured!
+
+sending packet with sequence number 90
+ack received for packet 90
+
+sliding the window to the right...
+sending packet with sequence number 91
+sending packet with sequence number 92
+time out occured!
+
+sending packet with sequence number 91
+time out occured!
+
+sending packet with sequence number 91
+time out occured!
+
+sending packet with sequence number 91
+ack received for packet 91
+
+sliding the window to the right...
+sending packet with sequence number 92
+sending packet with sequence number 93
+ack received for packet 93
+
+time out occured!
+
+sending packet with sequence number 92
+time out occured!
+
+sending packet with sequence number 92
+time out occured!
+
+sending packet with sequence number 92
+ack received for packet 92
+
+sliding the window to the right...
+sending packet with sequence number 93
+sending packet with sequence number 94
+time out occured!
+
+sending packet with sequence number 93
+ack received for packet 93
+
+sliding the window to the right...
+sending packet with sequence number 94
+sending packet with sequence number 95
+ack received for packet 94
+
+sliding the window to the right...
+sending packet with sequence number 96
+sending packet with sequence number 97
+time out occured!
+
+sending packet with sequence number 95
+ack received for packet 95
+
+sliding the window to the right...
+sending packet with sequence number 96
+sending packet with sequence number 97
+time out occured!
+
+sending packet with sequence number 96
+ack received for packet 96
+
+sliding the window to the right...
+sending packet with sequence number 97
+sending packet with sequence number 98
+time out occured!
+
+sending packet with sequence number 97
+ack received for packet 97
+
+sliding the window to the right...
+sending packet with sequence number 98
+sending packet with sequence number 99
+time out occured!
+
+sending packet with sequence number 98
+ack received for packet 98
+
+sliding the window to the right...
+sending packet with sequence number 99
+sending packet with sequence number 100
+time out occured!
+
+sending packet with sequence number 99
+time out occured!
+
+sending packet with sequence number 99
+ack received for packet 99
+
+sliding the window to the right...
+sending packet with sequence number 100
+sending packet with sequence number 101
+ack received for packet 100
+
+sliding the window to the right...
+sending packet with sequence number 102
+sending packet with sequence number 103
+time out occured!
+
+sending packet with sequence number 101
+time out occured!
+
+sending packet with sequence number 101
+time out occured!
+
+sending packet with sequence number 101
+time out occured!
+
+sending packet with sequence number 101
+ack received for packet 101
+
+sliding the window to the right...
+sending packet with sequence number 102
+sending packet with sequence number 103
+time out occured!
+
+sending packet with sequence number 102
+time out occured!
+
+sending packet with sequence number 102
+ack received for packet 102
+
+sliding the window to the right...
+sending packet with sequence number 103
+sending packet with sequence number 104
+ack received for packet 103
+
+sliding the window to the right...
+ack received for packet 104
+
+sliding the window to the right...
+sending packet with sequence number 105
+sending packet with sequence number 106
+sending packet with sequence number 107
+sending packet with sequence number 108
+time out occured!
+
+sending packet with sequence number 105
+sending packet with sequence number 106
+time out occured!
+
+sending packet with sequence number 105
+ack received for packet 105
+
+sliding the window to the right...
+sending packet with sequence number 106
+sending packet with sequence number 107
+time out occured!
+
+sending packet with sequence number 106
+ack received for packet 106
+
+sliding the window to the right...
+sending packet with sequence number 107
+sending packet with sequence number 108
+ack received for packet 107
+
+sliding the window to the right...
+ack received for packet 108
+
+sliding the window to the right...
+sending packet with sequence number 109
+sending packet with sequence number 110
+sending packet with sequence number 111
+sending packet with sequence number 112
+time out occured!
+
+sending packet with sequence number 109
+sending packet with sequence number 110
+time out occured!
+
+sending packet with sequence number 109
+ack received for packet 109
+
+sliding the window to the right...
+sending packet with sequence number 110
+sending packet with sequence number 111
+ack received for packet 110
+
+sliding the window to the right...
+ack received for packet 111
+
+sliding the window to the right...
+sending packet with sequence number 112
+sending packet with sequence number 113
+sending packet with sequence number 114
+sending packet with sequence number 115
+ack received for packet 112
+
+sliding the window to the right...
+sending packet with sequence number 116
+ack received for packet 113
+
+sliding the window to the right...
+sending packet with sequence number 117
+ack received for packet 114
+
+sliding the window to the right...
+sending packet with sequence number 118
+time out occured!
+
+sending packet with sequence number 115
+sending packet with sequence number 116
+time out occured!
+
+sending packet with sequence number 115
+time out occured!
+
+sending packet with sequence number 115
+time out occured!
+
+sending packet with sequence number 115
+time out occured!
+
+sending packet with sequence number 115
+ack received for packet 115
+
+sliding the window to the right...
+sending packet with sequence number 116
+sending packet with sequence number 117
+time out occured!
+
+sending packet with sequence number 116
+time out occured!
+
+sending packet with sequence number 116
+ack received for packet 116
+
+sliding the window to the right...
+sending packet with sequence number 117
+sending packet with sequence number 118
+ack received for packet 117
+
+sliding the window to the right...
+sending packet with sequence number 119
+sending packet with sequence number 120
+ack received for packet 118
+
+sliding the window to the right...
+sending packet with sequence number 121
+sending packet with sequence number 122
+time out occured!
+
+sending packet with sequence number 119
+sending packet with sequence number 120
+ack received for packet 119
+
+sliding the window to the right...
+sending packet with sequence number 121
+sending packet with sequence number 122
+time out occured!
+
+sending packet with sequence number 120
+time out occured!
+
+sending packet with sequence number 120
+ack received for packet 120
+
+sliding the window to the right...
+sending packet with sequence number 121
+sending packet with sequence number 122
+ack received for packet 121
+
+sliding the window to the right...
+sending packet with sequence number 123
+sending packet with sequence number 124
+time out occured!
+
+sending packet with sequence number 122
+time out occured!
+
+sending packet with sequence number 122
+time out occured!
+
+sending packet with sequence number 122
+time out occured!
+
+sending packet with sequence number 122
+ack received for packet 122
+
+sliding the window to the right...
+sending packet with sequence number 123
+sending packet with sequence number 124
+ack received for packet 123
+
+sliding the window to the right...
+sending packet with sequence number 125
+sending packet with sequence number 126
+ack received for packet 126
+
+time out occured!
+
+sending packet with sequence number 124
+time out occured!
+
+sending packet with sequence number 124
+time out occured!
+
+sending packet with sequence number 124
+ack received for packet 124
+
+sliding the window to the right...
+sending packet with sequence number 125
+ack received for packet 125
+
+sliding the window to the right...
+sending packet with sequence number 126
+sending packet with sequence number 127
+sending packet with sequence number 128
+ack received for packet 126
+
+sliding the window to the right...
+sending packet with sequence number 129
+sending packet with sequence number 130
+ack received for packet 127
+
+sliding the window to the right...
+sending packet with sequence number 131
+time out occured!
+
+sending packet with sequence number 128
+sending packet with sequence number 129
+time out occured!
+
+sending packet with sequence number 128
+time out occured!
+
+sending packet with sequence number 128
+time out occured!
+
+sending packet with sequence number 128
+time out occured!
+
+sending packet with sequence number 128
+time out occured!
+
+sending packet with sequence number 128
+time out occured!
+
+sending packet with sequence number 128
+ack received for packet 128
+
+sliding the window to the right...
+sending packet with sequence number 129
+ack received for packet 129
+
+sliding the window to the right...
+sending packet with sequence number 130
+sending packet with sequence number 131
+sending packet with sequence number 132
+time out occured!
+
+sending packet with sequence number 130
+time out occured!
+
+sending packet with sequence number 130
+ack received for packet 130
+
+sliding the window to the right...
+sending packet with sequence number 131
+ack received for packet 131
+
+sliding the window to the right...
+sending packet with sequence number 132
+sending packet with sequence number 133
+sending packet with sequence number 134
+time out occured!
+
+sending packet with sequence number 132
+time out occured!
+
+sending packet with sequence number 132
+ack received for packet 132
+
+sliding the window to the right...
+sending packet with sequence number 133
+sending packet with sequence number 134
+ack received for packet 134
+
+time out occured!
+
+sending packet with sequence number 133
+ack received for packet 133
+
+sliding the window to the right...
+sending packet with sequence number 134
+sending packet with sequence number 135
+ack received for packet 134
+
+sliding the window to the right...
+sending packet with sequence number 136
+sending packet with sequence number 137
+time out occured!
+
+sending packet with sequence number 135
+ack received for packet 135
+
+sliding the window to the right...
+sending packet with sequence number 136
+sending packet with sequence number 137
+time out occured!
+
+sending packet with sequence number 136
+time out occured!
+
+sending packet with sequence number 136
+time out occured!
+
+sending packet with sequence number 136
+time out occured!
+
+sending packet with sequence number 136
+time out occured!
+
+sending packet with sequence number 136
+ack received for packet 136
+
+sliding the window to the right...
+sending packet with sequence number 137
+sending packet with sequence number 138
+time out occured!
+
+sending packet with sequence number 137
+ack received for packet 137
+
+sliding the window to the right...
+sending packet with sequence number 138
+ack received for packet 138
+
+sliding the window to the right...
+sending packet with sequence number 139
+sending packet with sequence number 140
+sending packet with sequence number 141
+time out occured!
+
+sending packet with sequence number 139
+time out occured!
+
+sending packet with sequence number 139
+ack received for packet 139
+
+sliding the window to the right...
+sending packet with sequence number 140
+ack received for packet 140
+
+sliding the window to the right...
+sending packet with sequence number 141
+sending packet with sequence number 142
+sending packet with sequence number 143
+time out occured!
+
+sending packet with sequence number 141
+ack received for packet 141
+
+sliding the window to the right...
+sending packet with sequence number 142
+sending packet with sequence number 143
+time out occured!
+
+sending packet with sequence number 142
+time out occured!
+
+sending packet with sequence number 142
+time out occured!
+
+sending packet with sequence number 142
+ack received for packet 142
+
+sliding the window to the right...
+sending packet with sequence number 143
+sending packet with sequence number 144
+ack received for packet 143
+
+sliding the window to the right...
+sending packet with sequence number 145
+sending packet with sequence number 146
+time out occured!
+
+sending packet with sequence number 144
+time out occured!
+
+sending packet with sequence number 144
+time out occured!
+
+sending packet with sequence number 144
+time out occured!
+
+sending packet with sequence number 144
+ack received for packet 144
+
+sliding the window to the right...
+sending packet with sequence number 145
+sending packet with sequence number 146
+time out occured!
+
+sending packet with sequence number 145
+ack received for packet 145
+
+sliding the window to the right...
+sending packet with sequence number 146
+sending packet with sequence number 147
+time out occured!
+
+sending packet with sequence number 146
+time out occured!
+
+sending packet with sequence number 146
+time out occured!
+
+sending packet with sequence number 146
+time out occured!
+
+sending packet with sequence number 146
+time out occured!
+
+sending packet with sequence number 146
+ack received for packet 146
+
+sliding the window to the right...
+sending packet with sequence number 147
+sending packet with sequence number 148
+ack received for packet 147
+
+sliding the window to the right...
+sending packet with sequence number 149
+sending packet with sequence number 150
+time out occured!
+
+sending packet with sequence number 148
+time out occured!
+
+sending packet with sequence number 148
+ack received for packet 148
+
+sliding the window to the right...
+sending packet with sequence number 149
+sending packet with sequence number 150
+time out occured!
+
+sending packet with sequence number 149
+time out occured!
+
+sending packet with sequence number 149
+ack received for packet 149
+
+sliding the window to the right...
+sending packet with sequence number 150
+sending packet with sequence number 151
+time out occured!
+
+sending packet with sequence number 150
+time out occured!
+
+sending packet with sequence number 150
+time out occured!
+
+sending packet with sequence number 150
+time out occured!
+
+sending packet with sequence number 150
+ack received for packet 150
+
+sliding the window to the right...
+sending packet with sequence number 151
+sending packet with sequence number 152
+time out occured!
+
+sending packet with sequence number 151
+ack received for packet 151
+
+sliding the window to the right...
+sending packet with sequence number 152
+ack received for packet 152
+
+sliding the window to the right...
+sending packet with sequence number 153
+sending packet with sequence number 154
+sending packet with sequence number 155
+time out occured!
+
+sending packet with sequence number 153
+time out occured!
+
+sending packet with sequence number 153
+ack received for packet 153
+
+sliding the window to the right...
+sending packet with sequence number 154
+sending packet with sequence number 155
+time out occured!
+
+sending packet with sequence number 154
+ack received for packet 154
+
+sliding the window to the right...
+sending packet with sequence number 155
+sending packet with sequence number 156
+ack received for packet 155
+
+sliding the window to the right...
+sending packet with sequence number 157
+sending packet with sequence number 158
+ack received for packet 158
+
+time out occured!
+
+sending packet with sequence number 156
+ack received for packet 156
+
+sliding the window to the right...
+sending packet with sequence number 157
+sending packet with sequence number 158
+time out occured!
+
+sending packet with sequence number 157
+time out occured!
+
+sending packet with sequence number 157
+time out occured!
+
+sending packet with sequence number 157
+time out occured!
+
+sending packet with sequence number 157
+ack received for packet 157
+
+sliding the window to the right...
+sending packet with sequence number 158
+sending packet with sequence number 159
+time out occured!
+
+sending packet with sequence number 158
+ack received for packet 158
+
+sliding the window to the right...
+sending packet with sequence number 159
+sending packet with sequence number 160
+time out occured!
+
+sending packet with sequence number 159
+time out occured!
+
+sending packet with sequence number 159
+ack received for packet 159
+
+sliding the window to the right...
+sending packet with sequence number 160
+sending packet with sequence number 161
+time out occured!
+
+sending packet with sequence number 160
+time out occured!
+
+sending packet with sequence number 160
+ack received for packet 160
+
+sliding the window to the right...
+sending packet with sequence number 161
+sending packet with sequence number 162
+ack received for packet 161
+
+sliding the window to the right...
+ack received for packet 162
+
+sliding the window to the right...
+sending packet with sequence number 163
+sending packet with sequence number 164
+sending packet with sequence number 165
+sending packet with sequence number 166
+ack received for packet 163
+
+sliding the window to the right...
+sending packet with sequence number 167
+ack received for packet 167
+
+time out occured!
+
+sending packet with sequence number 164
+sending packet with sequence number 165
+time out occured!
+
+sending packet with sequence number 164
+time out occured!
+
+sending packet with sequence number 164
+time out occured!
+
+sending packet with sequence number 164
+ack received for packet 164
+
+sliding the window to the right...
+sending packet with sequence number 165
+sending packet with sequence number 166
+time out occured!
+
+sending packet with sequence number 165
+ack received for packet 165
+
+sliding the window to the right...
+sending packet with sequence number 166
+sending packet with sequence number 167
+ack received for packet 166
+
+sliding the window to the right...
+sending packet with sequence number 168
+sending packet with sequence number 169
+time out occured!
+
+sending packet with sequence number 167
+time out occured!
+
+sending packet with sequence number 167
+time out occured!
+
+sending packet with sequence number 167
+ack received for packet 167
+
+sliding the window to the right...
+sending packet with sequence number 168
+sending packet with sequence number 169
+time out occured!
+
+sending packet with sequence number 168
+time out occured!
+
+sending packet with sequence number 168
+ack received for packet 168
+
+sliding the window to the right...
+sending packet with sequence number 169
+sending packet with sequence number 170
+time out occured!
+
+sending packet with sequence number 169
+time out occured!
+
+sending packet with sequence number 169
+time out occured!
+
+sending packet with sequence number 169
+ack received for packet 169
+
+sliding the window to the right...
+sending packet with sequence number 170
+sending packet with sequence number 171
+time out occured!
+
+sending packet with sequence number 170
+time out occured!
+
+sending packet with sequence number 170
+time out occured!
+
+sending packet with sequence number 170
+time out occured!
+
+sending packet with sequence number 170
+ack received for packet 170
+
+sliding the window to the right...
+sending packet with sequence number 171
+sending packet with sequence number 172
+ack received for packet 171
+
+sliding the window to the right...
+ack received for packet 172
+
+sliding the window to the right...
+sending packet with sequence number 173
+sending packet with sequence number 174
+sending packet with sequence number 175
+sending packet with sequence number 176
+time out occured!
+
+sending packet with sequence number 173
+sending packet with sequence number 174
+ack received for packet 173
+
+sliding the window to the right...
+ack received for packet 174
+
+sliding the window to the right...
+sending packet with sequence number 175
+sending packet with sequence number 176
+sending packet with sequence number 177
+sending packet with sequence number 178
+ack received for packet 175
+
+sliding the window to the right...
+ack received for packet 176
+
+sliding the window to the right...
+sending packet with sequence number 179
+sending packet with sequence number 180
+time out occured!
+
+sending packet with sequence number 177
+sending packet with sequence number 178
+time out occured!
+
+sending packet with sequence number 177
+time out occured!
+
+sending packet with sequence number 177
+time out occured!
+
+sending packet with sequence number 177
+time out occured!
+
+sending packet with sequence number 177
+time out occured!
+
+sending packet with sequence number 177
+ack received for packet 177
+
+sliding the window to the right...
+sending packet with sequence number 178
+sending packet with sequence number 179
+time out occured!
+
+sending packet with sequence number 178
+time out occured!
+
+sending packet with sequence number 178
+time out occured!
+
+sending packet with sequence number 178
+time out occured!
+
+sending packet with sequence number 178
+time out occured!
+
+sending packet with sequence number 178
+time out occured!
+
+sending packet with sequence number 178
+time out occured!
+
+sending packet with sequence number 178
+ack received for packet 178
+
+sliding the window to the right...
+sending packet with sequence number 179
+ack received for packet 179
+
+sliding the window to the right...
+sending packet with sequence number 180
+sending packet with sequence number 181
+sending packet with sequence number 182
+time out occured!
+
+sending packet with sequence number 180
+time out occured!
+
+sending packet with sequence number 180
+ack received for packet 180
+
+sliding the window to the right...
+sending packet with sequence number 181
+sending packet with sequence number 182
+ack received for packet 181
+
+sliding the window to the right...
+ack received for packet 182
+
+sliding the window to the right...
+sending packet with sequence number 183
+sending packet with sequence number 184
+sending packet with sequence number 185
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 183
+sending packet with sequence number 184
+time out occured!
+
+sending packet with sequence number 183
+time out occured!
+
+sending packet with sequence number 183
+time out occured!
+
+sending packet with sequence number 183
+ack received for packet 183
+
+sliding the window to the right...
+sending packet with sequence number 184
+sending packet with sequence number 185
+ack received for packet 184
+
+sliding the window to the right...
+sending packet with sequence number 186
+sending packet with sequence number 187
+ack received for packet 185
+
+sliding the window to the right...
+sending packet with sequence number 188
+sending packet with sequence number 189
+time out occured!
+
+sending packet with sequence number 186
+sending packet with sequence number 187
+time out occured!
+
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 186
+time out occured!
+
+sending packet with sequence number 186
+ack received for packet 186
+
+sliding the window to the right...
+sending packet with sequence number 187
+sending packet with sequence number 188
+ack received for packet 187
+
+sliding the window to the right...
+sending packet with sequence number 189
+sending packet with sequence number 190
+time out occured!
+
+sending packet with sequence number 188
+ack received for packet 188
+
+sliding the window to the right...
+sending packet with sequence number 189
+sending packet with sequence number 190
+time out occured!
+
+sending packet with sequence number 189
+ack received for packet 189
+
+sliding the window to the right...
+sending packet with sequence number 190
+sending packet with sequence number 191
+time out occured!
+
+sending packet with sequence number 190
+ack received for packet 190
+
+sliding the window to the right...
+sending packet with sequence number 191
+sending packet with sequence number 192
+ack received for packet 191
+
+sliding the window to the right...
+sending packet with sequence number 193
+sending packet with sequence number 194
+time out occured!
+
+sending packet with sequence number 192
+ack received for packet 192
+
+sliding the window to the right...
+sending packet with sequence number 193
+sending packet with sequence number 194
+time out occured!
+
+sending packet with sequence number 193
+time out occured!
+
+sending packet with sequence number 193
+time out occured!
+
+sending packet with sequence number 193
+time out occured!
+
+sending packet with sequence number 193
+time out occured!
+
+sending packet with sequence number 193
+time out occured!
+
+sending packet with sequence number 193
+time out occured!
+
+sending packet with sequence number 193
+ack received for packet 193
+
+sliding the window to the right...
+sending packet with sequence number 194
+sending packet with sequence number 195
+time out occured!
+
+sending packet with sequence number 194
+time out occured!
+
+sending packet with sequence number 194
+ack received for packet 194
+
+sliding the window to the right...
+sending packet with sequence number 195
+sending packet with sequence number 196
+ack received for packet 195
+
+sliding the window to the right...
+ack received for packet 196
+
+sliding the window to the right...
+sending packet with sequence number 197
+sending packet with sequence number 198
+sending packet with sequence number 199
+sending packet with sequence number 200
+time out occured!
+
+sending packet with sequence number 197
+sending packet with sequence number 198
+time out occured!
+
+sending packet with sequence number 197
+time out occured!
+
+sending packet with sequence number 197
+time out occured!
+
+sending packet with sequence number 197
+ack received for packet 197
+
+sliding the window to the right...
+sending packet with sequence number 198
+sending packet with sequence number 199
+time out occured!
+
+sending packet with sequence number 198
+ack received for packet 198
+
+sliding the window to the right...
+sending packet with sequence number 199
+sending packet with sequence number 200
+ack received for packet 199
+
+sliding the window to the right...
+sending packet with sequence number 201
+ack received for packet 200
+
+sliding the window to the right...
+ack received for packet 201
+
+sliding the window to the right...
+sending packet with sequence number 202
+sending packet with sequence number 203
+sending packet with sequence number 204
+sending packet with sequence number 205
+ack received for packet 202
+
+sliding the window to the right...
+sending packet with sequence number 206
+time out occured!
+
+sending packet with sequence number 203
+sending packet with sequence number 204
+time out occured!
+
+sending packet with sequence number 203
+time out occured!
+
+sending packet with sequence number 203
+time out occured!
+
+sending packet with sequence number 203
+ack received for packet 203
+
+sliding the window to the right...
+sending packet with sequence number 204
+sending packet with sequence number 205
+time out occured!
+
+sending packet with sequence number 204
+time out occured!
+
+sending packet with sequence number 204
+ack received for packet 204
+
+sliding the window to the right...
+sending packet with sequence number 205
+sending packet with sequence number 206
+ack received for packet 205
+
+sliding the window to the right...
+sending packet with sequence number 207
+sending packet with sequence number 208
+time out occured!
+
+sending packet with sequence number 206
+time out occured!
+
+sending packet with sequence number 206
+ack received for packet 206
+
+sliding the window to the right...
+sending packet with sequence number 207
+sending packet with sequence number 208
+time out occured!
+
+sending packet with sequence number 207
+ack received for packet 207
+
+sliding the window to the right...
+sending packet with sequence number 208
+sending packet with sequence number 209
+ack received for packet 208
+
+sliding the window to the right...
+ack received for packet 209
+
+sliding the window to the right...
+sending packet with sequence number 210
+sending packet with sequence number 211
+sending packet with sequence number 212
+sending packet with sequence number 213
+time out occured!
+
+sending packet with sequence number 210
+ack received for packet 210
+
+sliding the window to the right...
+sending packet with sequence number 211
+sending packet with sequence number 212
+sending packet with sequence number 213
+time out occured!
+
+sending packet with sequence number 211
+time out occured!
+
+sending packet with sequence number 211
+ack received for packet 211
+
+sliding the window to the right...
+sending packet with sequence number 212
+sending packet with sequence number 213
+time out occured!
+
+sending packet with sequence number 212
+ack received for packet 212
+
+sliding the window to the right...
+sending packet with sequence number 213
+sending packet with sequence number 214
+time out occured!
+
+sending packet with sequence number 213
+time out occured!
+
+sending packet with sequence number 213
+ack received for packet 213
+
+sliding the window to the right...
+sending packet with sequence number 214
+sending packet with sequence number 215
+time out occured!
+
+sending packet with sequence number 214
+time out occured!
+
+sending packet with sequence number 214
+time out occured!
+
+sending packet with sequence number 214
+ack received for packet 214
+
+sliding the window to the right...
+sending packet with sequence number 215
+sending packet with sequence number 216
+time out occured!
+
+sending packet with sequence number 215
+ack received for packet 215
+
+sliding the window to the right...
+sending packet with sequence number 216
+sending packet with sequence number 217
+time out occured!
+
+sending packet with sequence number 216
+time out occured!
+
+sending packet with sequence number 216
+ack received for packet 216
+
+sliding the window to the right...
+sending packet with sequence number 217
+sending packet with sequence number 218
+ack received for packet 217
+
+sliding the window to the right...
+ack received for packet 218
+
+sliding the window to the right...
+sending packet with sequence number 219
+sending packet with sequence number 220
+sending packet with sequence number 221
+sending packet with sequence number 222
+ack received for packet 219
+
+sliding the window to the right...
+sending packet with sequence number 223
+time out occured!
+
+sending packet with sequence number 220
+sending packet with sequence number 221
+time out occured!
+
+sending packet with sequence number 220
+time out occured!
+
+sending packet with sequence number 220
+time out occured!
+
+sending packet with sequence number 220
+ack received for packet 220
+
+sliding the window to the right...
+sending packet with sequence number 221
+sending packet with sequence number 222
+ack received for packet 221
+
+sliding the window to the right...
+sending packet with sequence number 223
+sending packet with sequence number 224
+time out occured!
+
+sending packet with sequence number 222
+time out occured!
+
+sending packet with sequence number 222
+ack received for packet 222
+
+sliding the window to the right...
+sending packet with sequence number 223
+sending packet with sequence number 224
+time out occured!
+
+sending packet with sequence number 223
+ack received for packet 223
+
+sliding the window to the right...
+sending packet with sequence number 224
+sending packet with sequence number 225
+ack received for packet 224
+
+sliding the window to the right...
+ack received for packet 225
+
+sliding the window to the right...
+sending packet with sequence number 226
+sending packet with sequence number 227
+sending packet with sequence number 228
+sending packet with sequence number 229
+time out occured!
+
+sending packet with sequence number 226
+sending packet with sequence number 227
+time out occured!
+
+sending packet with sequence number 226
+ack received for packet 226
+
+sliding the window to the right...
+sending packet with sequence number 227
+sending packet with sequence number 228
+time out occured!
+
+sending packet with sequence number 227
+ack received for packet 227
+
+sliding the window to the right...
+sending packet with sequence number 228
+ack received for packet 228
+
+sliding the window to the right...
+sending packet with sequence number 229
+sending packet with sequence number 230
+sending packet with sequence number 231
+ack received for packet 229
+
+sliding the window to the right...
+ack received for packet 230
+
+sliding the window to the right...
+ack received for packet 231
+
+sliding the window to the right...
+sending packet with sequence number 232
+sending packet with sequence number 233
+sending packet with sequence number 234
+sending packet with sequence number 235
+time out occured!
+
+sending packet with sequence number 232
+sending packet with sequence number 233
+ack received for packet 232
+
+sliding the window to the right...
+sending packet with sequence number 234
+sending packet with sequence number 235
+ack received for packet 233
+
+sliding the window to the right...
+sending packet with sequence number 236
+sending packet with sequence number 237
+ack received for packet 234
+
+sliding the window to the right...
+sending packet with sequence number 238
+ack received for packet 235
+
+sliding the window to the right...
+sending packet with sequence number 239
+ack received for packet 236
+
+sliding the window to the right...
+sending packet with sequence number 240
+ack received for packet 237
+
+sliding the window to the right...
+sending packet with sequence number 241
+time out occured!
+
+sending packet with sequence number 238
+sending packet with sequence number 239
+time out occured!
+
+sending packet with sequence number 238
+ack received for packet 238
+
+sliding the window to the right...
+sending packet with sequence number 239
+sending packet with sequence number 240
+ack received for packet 239
+
+sliding the window to the right...
+sending packet with sequence number 241
+sending packet with sequence number 242
+ack received for packet 240
+
+sliding the window to the right...
+sending packet with sequence number 243
+sending packet with sequence number 244
+time out occured!
+
+sending packet with sequence number 241
+sending packet with sequence number 242
+ack received for packet 241
+
+sliding the window to the right...
+ack received for packet 242
+
+sliding the window to the right...
+sending packet with sequence number 243
+sending packet with sequence number 244
+sending packet with sequence number 245
+sending packet with sequence number 246
+time out occured!
+
+sending packet with sequence number 243
+sending packet with sequence number 244
+time out occured!
+
+sending packet with sequence number 243
+time out occured!
+
+sending packet with sequence number 243
+time out occured!
+
+sending packet with sequence number 243
+time out occured!
+
+sending packet with sequence number 243
+time out occured!
+
+sending packet with sequence number 243
+time out occured!
+
+sending packet with sequence number 243
+time out occured!
+
+sending packet with sequence number 243
+time out occured!
+
+sending packet with sequence number 243
+ack received for packet 243
+
+sliding the window to the right...
+sending packet with sequence number 244
+sending packet with sequence number 245
+time out occured!
+
+sending packet with sequence number 244
+time out occured!
+
+sending packet with sequence number 244
+ack received for packet 244
+
+sliding the window to the right...
+sending packet with sequence number 245
+sending packet with sequence number 246
+time out occured!
+
+sending packet with sequence number 245
+time out occured!
+
+sending packet with sequence number 245
+ack received for packet 245
+
+sliding the window to the right...
+sending packet with sequence number 246
+sending packet with sequence number 247
+time out occured!
+
+sending packet with sequence number 246
+time out occured!
+
+sending packet with sequence number 246
+time out occured!
+
+sending packet with sequence number 246
+time out occured!
+
+sending packet with sequence number 246
+ack received for packet 246
+
+sliding the window to the right...
+sending packet with sequence number 247
+sending packet with sequence number 248
+ack received for packet 247
+
+sliding the window to the right...
+ack received for packet 248
+
+sliding the window to the right...
+sending packet with sequence number 249
+sending packet with sequence number 250
+sending packet with sequence number 251
+sending packet with sequence number 252
+time out occured!
+
+sending packet with sequence number 249
+ack received for packet 249
+
+sliding the window to the right...
+sending packet with sequence number 250
+sending packet with sequence number 251
+sending packet with sequence number 252
+time out occured!
+
+sending packet with sequence number 250
+ack received for packet 250
+
+sliding the window to the right...
+sending packet with sequence number 251
+sending packet with sequence number 252
+ack received for packet 251
+
+sliding the window to the right...
+sending packet with sequence number 253
+sending packet with sequence number 254
+time out occured!
+
+sending packet with sequence number 252
+time out occured!
+
+sending packet with sequence number 252
+ack received for packet 252
+
+sliding the window to the right...
+sending packet with sequence number 253
+ack received for packet 253
+
+sliding the window to the right...
+sending packet with sequence number 254
+sending packet with sequence number 255
+sending packet with sequence number 256
+time out occured!
+
+sending packet with sequence number 254
+ack received for packet 254
+
+sliding the window to the right...
+sending packet with sequence number 255
+sending packet with sequence number 256
+time out occured!
+
+sending packet with sequence number 255
+time out occured!
+
+sending packet with sequence number 255
+ack received for packet 255
+
+sliding the window to the right...
+sending packet with sequence number 256
+sending packet with sequence number 257
+ack received for packet 256
+
+sliding the window to the right...
+sending packet with sequence number 258
+sending packet with sequence number 259
+ack received for packet 257
+
+sliding the window to the right...
+sending packet with sequence number 260
+sending packet with sequence number 261
+time out occured!
+
+sending packet with sequence number 258
+sending packet with sequence number 259
+ack received for packet 258
+
+sliding the window to the right...
+sending packet with sequence number 260
+sending packet with sequence number 261
+ack received for packet 259
+
+sliding the window to the right...
+sending packet with sequence number 262
+sending packet with sequence number 263
+time out occured!
+
+sending packet with sequence number 260
+sending packet with sequence number 261
+time out occured!
+
+sending packet with sequence number 260
+ack received for packet 260
+
+sliding the window to the right...
+sending packet with sequence number 261
+sending packet with sequence number 262
+ack received for packet 261
+
+sliding the window to the right...
+sending packet with sequence number 263
+sending packet with sequence number 264
+ack received for packet 262
+
+sliding the window to the right...
+sending packet with sequence number 265
+sending packet with sequence number 266
+ack received for packet 263
+
+sliding the window to the right...
+sending packet with sequence number 267
+ack received for packet 265
+
+ack received for packet 266
+
+time out occured!
+
+sending packet with sequence number 264
+sending packet with sequence number 265
+time out occured!
+
+sending packet with sequence number 264
+time out occured!
+
+sending packet with sequence number 264
+ack received for packet 264
+
+sliding the window to the right...
+sending packet with sequence number 265
+sending packet with sequence number 266
+time out occured!
+
+sending packet with sequence number 265
+time out occured!
+
+sending packet with sequence number 265
+time out occured!
+
+sending packet with sequence number 265
+time out occured!
+
+sending packet with sequence number 265
+time out occured!
+
+sending packet with sequence number 265
+time out occured!
+
+sending packet with sequence number 265
+ack received for packet 265
+
+sliding the window to the right...
+sending packet with sequence number 266
+sending packet with sequence number 267
+time out occured!
+
+sending packet with sequence number 266
+time out occured!
+
+sending packet with sequence number 266
+time out occured!
+
+sending packet with sequence number 266
+ack received for packet 266
+
+sliding the window to the right...
+sending packet with sequence number 267
+ack received for packet 267
+
+sliding the window to the right...
+sending packet with sequence number 268
+sending packet with sequence number 269
+sending packet with sequence number 270
+ack received for packet 268
+
+sliding the window to the right...
+sending packet with sequence number 271
+sending packet with sequence number 272
+ack received for packet 270
+
+ack received for packet 271
+
+ack received for packet 272
+
+time out occured!
+
+sending packet with sequence number 269
+ack received for packet 269
+
+sliding the window to the right...
+sending packet with sequence number 270
+sending packet with sequence number 271
+sending packet with sequence number 272
+time out occured!
+
+sending packet with sequence number 270
+time out occured!
+
+sending packet with sequence number 270
+ack received for packet 270
+
+sliding the window to the right...
+sending packet with sequence number 271
+sending packet with sequence number 272
+time out occured!
+
+sending packet with sequence number 271
+time out occured!
+
+sending packet with sequence number 271
+ack received for packet 271
+
+sliding the window to the right...
+sending packet with sequence number 272
+sending packet with sequence number 273
+time out occured!
+
+sending packet with sequence number 272
+time out occured!
+
+sending packet with sequence number 272
+ack received for packet 272
+
+sliding the window to the right...
+sending packet with sequence number 273
+ack received for packet 273
+
+sliding the window to the right...
+sending packet with sequence number 274
+sending packet with sequence number 275
+sending packet with sequence number 276
+time out occured!
+
+sending packet with sequence number 274
+ack received for packet 274
+
+sliding the window to the right...
+sending packet with sequence number 275
+sending packet with sequence number 276
+time out occured!
+
+sending packet with sequence number 275
+time out occured!
+
+sending packet with sequence number 275
+time out occured!
+
+sending packet with sequence number 275
+time out occured!
+
+sending packet with sequence number 275
+time out occured!
+
+sending packet with sequence number 275
+ack received for packet 275
+
+sliding the window to the right...
+sending packet with sequence number 276
+sending packet with sequence number 277
+ack received for packet 276
+
+sliding the window to the right...
+sending packet with sequence number 278
+sending packet with sequence number 279
+ack received for packet 277
+
+sliding the window to the right...
+sending packet with sequence number 280
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 278
+sending packet with sequence number 279
+time out occured!
+
+sending packet with sequence number 278
+time out occured!
+
+sending packet with sequence number 278
+time out occured!
+
+sending packet with sequence number 278
+ack received for packet 278
+
+sliding the window to the right...
+sending packet with sequence number 279
+sending packet with sequence number 280
+ack received for packet 279
+
+sliding the window to the right...
+sending packet with sequence number 281
+sending packet with sequence number 282
+time out occured!
+
+sending packet with sequence number 280
+ack received for packet 280
+
+sliding the window to the right...
+sending packet with sequence number 281
+sending packet with sequence number 282
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+time out occured!
+
+sending packet with sequence number 281
+ack received for packet 281
+
+sliding the window to the right...
+sending packet with sequence number 282
+sending packet with sequence number 283
+time out occured!
+
+sending packet with sequence number 282
+ack received for packet 282
+
+sliding the window to the right...
+sending packet with sequence number 283
+sending packet with sequence number 284
+ack received for packet 283
+
+sliding the window to the right...
+sending packet with sequence number 285
+sending packet with sequence number 286
+time out occured!
+
+sending packet with sequence number 284
+time out occured!
+
+sending packet with sequence number 284
+time out occured!
+
+sending packet with sequence number 284
+time out occured!
+
+sending packet with sequence number 284
+time out occured!
+
+sending packet with sequence number 284
+ack received for packet 284
+
+sliding the window to the right...
+sending packet with sequence number 285
+sending packet with sequence number 286
+ack received for packet 285
+
+sliding the window to the right...
+ack received for packet 286
+
+sliding the window to the right...
+sending packet with sequence number 287
+sending packet with sequence number 288
+sending packet with sequence number 289
+sending packet with sequence number 290
+time out occured!
+
+sending packet with sequence number 287
+sending packet with sequence number 288
+time out occured!
+
+sending packet with sequence number 287
+time out occured!
+
+sending packet with sequence number 287
+time out occured!
+
+sending packet with sequence number 287
+ack received for packet 287
+
+sliding the window to the right...
+sending packet with sequence number 288
+sending packet with sequence number 289
+time out occured!
+
+sending packet with sequence number 288
+time out occured!
+
+sending packet with sequence number 288
+ack received for packet 288
+
+sliding the window to the right...
+sending packet with sequence number 289
+sending packet with sequence number 290
+time out occured!
+
+sending packet with sequence number 289
+ack received for packet 289
+
+sliding the window to the right...
+sending packet with sequence number 290
+sending packet with sequence number 291
+ack received for packet 290
+
+sliding the window to the right...
+sending packet with sequence number 292
+sending packet with sequence number 293
+ack received for packet 291
+
+sliding the window to the right...
+sending packet with sequence number 294
+sending packet with sequence number 295
+time out occured!
+
+sending packet with sequence number 292
+sending packet with sequence number 293
+time out occured!
+
+sending packet with sequence number 292
+time out occured!
+
+sending packet with sequence number 292
+time out occured!
+
+sending packet with sequence number 292
+time out occured!
+
+sending packet with sequence number 292
+ack received for packet 292
+
+sliding the window to the right...
+sending packet with sequence number 293
+sending packet with sequence number 294
+ack received for packet 293
+
+sliding the window to the right...
+sending packet with sequence number 295
+sending packet with sequence number 296
+ack received for packet 294
+
+sliding the window to the right...
+sending packet with sequence number 297
+sending packet with sequence number 298
+time out occured!
+
+sending packet with sequence number 295
+sending packet with sequence number 296
+time out occured!
+
+sending packet with sequence number 295
+ack received for packet 295
+
+sliding the window to the right...
+sending packet with sequence number 296
+sending packet with sequence number 297
+time out occured!
+
+sending packet with sequence number 296
+time out occured!
+
+sending packet with sequence number 296
+ack received for packet 296
+
+sliding the window to the right...
+sending packet with sequence number 297
+sending packet with sequence number 298
+ack received for packet 297
+
+sliding the window to the right...
+sending packet with sequence number 299
+sending packet with sequence number 300
+ack received for packet 298
+
+sliding the window to the right...
+sending packet with sequence number 301
+sending packet with sequence number 302
+time out occured!
+
+sending packet with sequence number 299
+sending packet with sequence number 300
+time out occured!
+
+sending packet with sequence number 299
+ack received for packet 299
+
+sliding the window to the right...
+sending packet with sequence number 300
+sending packet with sequence number 301
+time out occured!
+
+sending packet with sequence number 300
+time out occured!
+
+sending packet with sequence number 300
+ack received for packet 300
+
+sliding the window to the right...
+sending packet with sequence number 301
+sending packet with sequence number 302
+ack received for packet 301
+
+sliding the window to the right...
+sending packet with sequence number 303
+sending packet with sequence number 304
+ack received for packet 302
+
+sliding the window to the right...
+sending packet with sequence number 305
+sending packet with sequence number 306
+ack received for packet 303
+
+sliding the window to the right...
+sending packet with sequence number 307
+time out occured!
+
+sending packet with sequence number 304
+sending packet with sequence number 305
+time out occured!
+
+sending packet with sequence number 304
+time out occured!
+
+sending packet with sequence number 304
+time out occured!
+
+sending packet with sequence number 304
+ack received for packet 304
+
+sliding the window to the right...
+sending packet with sequence number 305
+sending packet with sequence number 306
+ack received for packet 305
+
+sliding the window to the right...
+sending packet with sequence number 307
+sending packet with sequence number 308
+ack received for packet 306
+
+sliding the window to the right...
+sending packet with sequence number 309
+sending packet with sequence number 310
+time out occured!
+
+sending packet with sequence number 307
+sending packet with sequence number 308
+ack received for packet 307
+
+sliding the window to the right...
+sending packet with sequence number 309
+sending packet with sequence number 310
+ack received for packet 308
+
+sliding the window to the right...
+sending packet with sequence number 311
+sending packet with sequence number 312
+ack received for packet 310
+
+time out occured!
+
+sending packet with sequence number 309
+sending packet with sequence number 310
+ack received for packet 309
+
+sliding the window to the right...
+sending packet with sequence number 311
+sending packet with sequence number 312
+ack received for packet 310
+
+sliding the window to the right...
+sending packet with sequence number 313
+sending packet with sequence number 314
+ack received for packet 311
+
+sliding the window to the right...
+sending packet with sequence number 315
+ack received for packet 315
+
+time out occured!
+
+sending packet with sequence number 312
+sending packet with sequence number 313
+time out occured!
+
+sending packet with sequence number 312
+time out occured!
+
+sending packet with sequence number 312
+ack received for packet 312
+
+sliding the window to the right...
+sending packet with sequence number 313
+sending packet with sequence number 314
+time out occured!
+
+sending packet with sequence number 313
+ack received for packet 313
+
+sliding the window to the right...
+sending packet with sequence number 314
+sending packet with sequence number 315
+time out occured!
+
+sending packet with sequence number 314
+time out occured!
+
+sending packet with sequence number 314
+time out occured!
+
+sending packet with sequence number 314
+ack received for packet 314
+
+sliding the window to the right...
+sending packet with sequence number 315
+sending packet with sequence number 316
+time out occured!
+
+sending packet with sequence number 315
+ack received for packet 315
+
+sliding the window to the right...
+sending packet with sequence number 316
+sending packet with sequence number 317
+time out occured!
+
+sending packet with sequence number 316
+time out occured!
+
+sending packet with sequence number 316
+time out occured!
+
+sending packet with sequence number 316
+time out occured!
+
+sending packet with sequence number 316
+time out occured!
+
+sending packet with sequence number 316
+time out occured!
+
+sending packet with sequence number 316
+time out occured!
+
+sending packet with sequence number 316
+ack received for packet 316
+
+sliding the window to the right...
+sending packet with sequence number 317
+sending packet with sequence number 318
+time out occured!
+
+sending packet with sequence number 317
+time out occured!
+
+sending packet with sequence number 317
+time out occured!
+
+sending packet with sequence number 317
+ack received for packet 317
+
+sliding the window to the right...
+sending packet with sequence number 318
+sending packet with sequence number 319
+time out occured!
+
+sending packet with sequence number 318
+time out occured!
+
+sending packet with sequence number 318
+time out occured!
+
+sending packet with sequence number 318
+ack received for packet 318
+
+sliding the window to the right...
+sending packet with sequence number 319
+sending packet with sequence number 320
+ack received for packet 319
+
+sliding the window to the right...
+ack received for packet 320
+
+sliding the window to the right...
+sending packet with sequence number 321
+sending packet with sequence number 322
+sending packet with sequence number 323
+sending packet with sequence number 324
+time out occured!
+
+sending packet with sequence number 321
+sending packet with sequence number 322
+ack received for packet 321
+
+sliding the window to the right...
+ack received for packet 322
+
+sliding the window to the right...
+sending packet with sequence number 323
+sending packet with sequence number 324
+sending packet with sequence number 325
+sending packet with sequence number 326
+ack received for packet 323
+
+sliding the window to the right...
+sending packet with sequence number 327
+ack received for packet 325
+
+time out occured!
+
+sending packet with sequence number 324
+sending packet with sequence number 325
+ack received for packet 324
+
+sliding the window to the right...
+sending packet with sequence number 326
+sending packet with sequence number 327
+ack received for packet 326
+
+ack received for packet 327
+
+time out occured!
+
+sending packet with sequence number 325
+ack received for packet 325
+
+sliding the window to the right...
+sending packet with sequence number 326
+sending packet with sequence number 327
+time out occured!
+
+sending packet with sequence number 326
+time out occured!
+
+sending packet with sequence number 326
+ack received for packet 326
+
+sliding the window to the right...
+sending packet with sequence number 327
+sending packet with sequence number 328
+time out occured!
+
+sending packet with sequence number 327
+time out occured!
+
+sending packet with sequence number 327
+time out occured!
+
+sending packet with sequence number 327
+time out occured!
+
+sending packet with sequence number 327
+time out occured!
+
+sending packet with sequence number 327
+time out occured!
+
+sending packet with sequence number 327
+time out occured!
+
+sending packet with sequence number 327
+time out occured!
+
+sending packet with sequence number 327
+ack received for packet 327
+
+sliding the window to the right...
+sending packet with sequence number 328
+sending packet with sequence number 329
+time out occured!
+
+sending packet with sequence number 328
+time out occured!
+
+sending packet with sequence number 328
+time out occured!
+
+sending packet with sequence number 328
+time out occured!
+
+sending packet with sequence number 328
+time out occured!
+
+sending packet with sequence number 328
+ack received for packet 328
+
+sliding the window to the right...
+sending packet with sequence number 329
+sending packet with sequence number 330
+time out occured!
+
+sending packet with sequence number 329
+ack received for packet 329
+
+sliding the window to the right...
+sending packet with sequence number 330
+sending packet with sequence number 331
+time out occured!
+
+sending packet with sequence number 330
+time out occured!
+
+sending packet with sequence number 330
+time out occured!
+
+sending packet with sequence number 330
+ack received for packet 330
+
+sliding the window to the right...
+sending packet with sequence number 331
+sending packet with sequence number 332
+ack received for packet 331
+
+sliding the window to the right...
+ack received for packet 332
+
+sliding the window to the right...
+sending packet with sequence number 333
+sending packet with sequence number 334
+sending packet with sequence number 335
+sending packet with sequence number 336
+time out occured!
+
+sending packet with sequence number 333
+sending packet with sequence number 334
+time out occured!
+
+sending packet with sequence number 333
+ack received for packet 333
+
+sliding the window to the right...
+sending packet with sequence number 334
+sending packet with sequence number 335
+ack received for packet 334
+
+sliding the window to the right...
+sending packet with sequence number 336
+sending packet with sequence number 337
+ack received for packet 335
+
+sliding the window to the right...
+sending packet with sequence number 338
+sending packet with sequence number 339
+time out occured!
+
+sending packet with sequence number 336
+sending packet with sequence number 337
+time out occured!
+
+sending packet with sequence number 336
+ack received for packet 336
+
+sliding the window to the right...
+sending packet with sequence number 337
+sending packet with sequence number 338
+time out occured!
+
+sending packet with sequence number 337
+ack received for packet 337
+
+sliding the window to the right...
+sending packet with sequence number 338
+sending packet with sequence number 339
+time out occured!
+
+sending packet with sequence number 338
+time out occured!
+
+sending packet with sequence number 338
+time out occured!
+
+sending packet with sequence number 338
+time out occured!
+
+sending packet with sequence number 338
+ack received for packet 338
+
+sliding the window to the right...
+sending packet with sequence number 339
+sending packet with sequence number 340
+ack received for packet 339
+
+sliding the window to the right...
+ack received for packet 340
+
+sliding the window to the right...
+sending packet with sequence number 341
+sending packet with sequence number 342
+sending packet with sequence number 343
+sending packet with sequence number 344
+time out occured!
+
+sending packet with sequence number 341
+sending packet with sequence number 342
+ack received for packet 341
+
+sliding the window to the right...
+ack received for packet 342
+
+sliding the window to the right...
+sending packet with sequence number 343
+sending packet with sequence number 344
+sending packet with sequence number 345
+sending packet with sequence number 346
+time out occured!
+
+sending packet with sequence number 343
+sending packet with sequence number 344
+ack received for packet 343
+
+sliding the window to the right...
+ack received for packet 344
+
+sliding the window to the right...
+sending packet with sequence number 345
+sending packet with sequence number 346
+sending packet with sequence number 347
+sending packet with sequence number 348
+time out occured!
+
+sending packet with sequence number 345
+sending packet with sequence number 346
+time out occured!
+
+sending packet with sequence number 345
+time out occured!
+
+sending packet with sequence number 345
+time out occured!
+
+sending packet with sequence number 345
+time out occured!
+
+sending packet with sequence number 345
+ack received for packet 345
+
+sliding the window to the right...
+sending packet with sequence number 346
+ack received for packet 346
+
+sliding the window to the right...
+sending packet with sequence number 347
+sending packet with sequence number 348
+sending packet with sequence number 349
+ack received for packet 347
+
+sliding the window to the right...
+ack received for packet 348
+
+sliding the window to the right...
+ack received for packet 349
+
+sliding the window to the right...
+sending packet with sequence number 350
+sending packet with sequence number 351
+sending packet with sequence number 352
+sending packet with sequence number 353
+time out occured!
+
+sending packet with sequence number 350
+sending packet with sequence number 351
+time out occured!
+
+sending packet with sequence number 350
+time out occured!
+
+sending packet with sequence number 350
+ack received for packet 350
+
+sliding the window to the right...
+sending packet with sequence number 351
+sending packet with sequence number 352
+time out occured!
+
+sending packet with sequence number 351
+time out occured!
+
+sending packet with sequence number 351
+time out occured!
+
+sending packet with sequence number 351
+time out occured!
+
+sending packet with sequence number 351
+time out occured!
+
+sending packet with sequence number 351
+ack received for packet 351
+
+sliding the window to the right...
+sending packet with sequence number 352
+sending packet with sequence number 353
+ack received for packet 352
+
+sliding the window to the right...
+ack received for packet 353
+
+sliding the window to the right...
+sending packet with sequence number 354
+sending packet with sequence number 355
+sending packet with sequence number 356
+sending packet with sequence number 357
+ack received for packet 354
+
+sliding the window to the right...
+ack received for packet 355
+
+sliding the window to the right...
+sending packet with sequence number 358
+sending packet with sequence number 359
+ack received for packet 357
+
+ack received for packet 358
+
+ack received for packet 359
+
+time out occured!
+
+sending packet with sequence number 356
+sending packet with sequence number 357
+time out occured!
+
+sending packet with sequence number 356
+ack received for packet 356
+
+sliding the window to the right...
+sending packet with sequence number 357
+ack received for packet 357
+
+sliding the window to the right...
+sending packet with sequence number 358
+sending packet with sequence number 359
+sending packet with sequence number 360
+time out occured!
+
+sending packet with sequence number 358
+time out occured!
+
+sending packet with sequence number 358
+time out occured!
+
+sending packet with sequence number 358
+ack received for packet 358
+
+sliding the window to the right...
+sending packet with sequence number 359
+sending packet with sequence number 360
+ack received for packet 359
+
+sliding the window to the right...
+sending packet with sequence number 361
+sending packet with sequence number 362
+ack received for packet 360
+
+sliding the window to the right...
+sending packet with sequence number 363
+sending packet with sequence number 364
+ack received for packet 361
+
+sliding the window to the right...
+sending packet with sequence number 365
+ack received for packet 363
+
+ack received for packet 364
+
+time out occured!
+
+sending packet with sequence number 362
+sending packet with sequence number 363
+ack received for packet 362
+
+sliding the window to the right...
+ack received for packet 363
+
+sliding the window to the right...
+sending packet with sequence number 364
+sending packet with sequence number 365
+sending packet with sequence number 366
+sending packet with sequence number 367
+time out occured!
+
+sending packet with sequence number 364
+sending packet with sequence number 365
+time out occured!
+
+sending packet with sequence number 364
+time out occured!
+
+sending packet with sequence number 364
+ack received for packet 364
+
+sliding the window to the right...
+sending packet with sequence number 365
+sending packet with sequence number 366
+time out occured!
+
+sending packet with sequence number 365
+time out occured!
+
+sending packet with sequence number 365
+time out occured!
+
+sending packet with sequence number 365
+time out occured!
+
+sending packet with sequence number 365
+ack received for packet 365
+
+sliding the window to the right...
+sending packet with sequence number 366
+sending packet with sequence number 367
+time out occured!
+
+sending packet with sequence number 366
+time out occured!
+
+sending packet with sequence number 366
+time out occured!
+
+sending packet with sequence number 366
+ack received for packet 366
+
+sliding the window to the right...
+sending packet with sequence number 367
+sending packet with sequence number 368
+ack received for packet 367
+
+sliding the window to the right...
+ack received for packet 368
+
+sliding the window to the right...
+sending packet with sequence number 369
+sending packet with sequence number 370
+sending packet with sequence number 371
+sending packet with sequence number 372
+time out occured!
+
+sending packet with sequence number 369
+sending packet with sequence number 370
+ack received for packet 369
+
+sliding the window to the right...
+sending packet with sequence number 371
+sending packet with sequence number 372
+ack received for packet 370
+
+sliding the window to the right...
+sending packet with sequence number 373
+sending packet with sequence number 374
+ack received for packet 371
+
+sliding the window to the right...
+sending packet with sequence number 375
+ack received for packet 372
+
+sliding the window to the right...
+sending packet with sequence number 376
+time out occured!
+
+sending packet with sequence number 373
+sending packet with sequence number 374
+time out occured!
+
+sending packet with sequence number 373
+time out occured!
+
+sending packet with sequence number 373
+ack received for packet 373
+
+sliding the window to the right...
+sending packet with sequence number 374
+sending packet with sequence number 375
+time out occured!
+
+sending packet with sequence number 374
+ack received for packet 374
+
+sliding the window to the right...
+sending packet with sequence number 375
+sending packet with sequence number 376
+ack received for packet 375
+
+sliding the window to the right...
+sending packet with sequence number 377
+sending packet with sequence number 378
+time out occured!
+
+sending packet with sequence number 376
+ack received for packet 376
+
+sliding the window to the right...
+sending packet with sequence number 377
+sending packet with sequence number 378
+time out occured!
+
+sending packet with sequence number 377
+time out occured!
+
+sending packet with sequence number 377
+ack received for packet 377
+
+sliding the window to the right...
+sending packet with sequence number 378
+sending packet with sequence number 379
+time out occured!
+
+sending packet with sequence number 378
+time out occured!
+
+sending packet with sequence number 378
+time out occured!
+
+sending packet with sequence number 378
+time out occured!
+
+sending packet with sequence number 378
+time out occured!
+
+sending packet with sequence number 378
+time out occured!
+
+sending packet with sequence number 378
+time out occured!
+
+sending packet with sequence number 378
+ack received for packet 378
+
+sliding the window to the right...
+sending packet with sequence number 379
+ack received for packet 379
+
+sliding the window to the right...
+sending packet with sequence number 380
+sending packet with sequence number 381
+sending packet with sequence number 382
+ack received for packet 380
+
+sliding the window to the right...
+sending packet with sequence number 383
+sending packet with sequence number 384
+time out occured!
+
+sending packet with sequence number 381
+sending packet with sequence number 382
+ack received for packet 381
+
+sliding the window to the right...
+sending packet with sequence number 383
+sending packet with sequence number 384
+time out occured!
+
+sending packet with sequence number 382
+ack received for packet 382
+
+sliding the window to the right...
+sending packet with sequence number 383
+sending packet with sequence number 384
+ack received for packet 383
+
+sliding the window to the right...
+sending packet with sequence number 385
+sending packet with sequence number 386
+time out occured!
+
+sending packet with sequence number 384
+ack received for packet 384
+
+sliding the window to the right...
+sending packet with sequence number 385
+sending packet with sequence number 386
+ack received for packet 385
+
+sliding the window to the right...
+sending packet with sequence number 387
+sending packet with sequence number 388
+time out occured!
+
+sending packet with sequence number 386
+time out occured!
+
+sending packet with sequence number 386
+ack received for packet 386
+
+sliding the window to the right...
+sending packet with sequence number 387
+sending packet with sequence number 388
+time out occured!
+
+sending packet with sequence number 387
+time out occured!
+
+sending packet with sequence number 387
+ack received for packet 387
+
+sliding the window to the right...
+sending packet with sequence number 388
+sending packet with sequence number 389
+ack received for packet 388
+
+sliding the window to the right...
+sending packet with sequence number 390
+ack received for packet 389
+
+sliding the window to the right...
+ack received for packet 390
+
+sliding the window to the right...
+sending packet with sequence number 391
+sending packet with sequence number 392
+sending packet with sequence number 393
+sending packet with sequence number 394
+time out occured!
+
+sending packet with sequence number 391
+sending packet with sequence number 392
+time out occured!
+
+sending packet with sequence number 391
+ack received for packet 391
+
+sliding the window to the right...
+sending packet with sequence number 392
+sending packet with sequence number 393
+time out occured!
+
+sending packet with sequence number 392
+time out occured!
+
+sending packet with sequence number 392
+ack received for packet 392
+
+sliding the window to the right...
+sending packet with sequence number 393
+sending packet with sequence number 394
+time out occured!
+
+sending packet with sequence number 393
+time out occured!
+
+sending packet with sequence number 393
+time out occured!
+
+sending packet with sequence number 393
+time out occured!
+
+sending packet with sequence number 393
+ack received for packet 393
+
+sliding the window to the right...
+sending packet with sequence number 394
+sending packet with sequence number 395
+time out occured!
+
+sending packet with sequence number 394
+ack received for packet 394
+
+sliding the window to the right...
+sending packet with sequence number 395
+sending packet with sequence number 396
+time out occured!
+
+sending packet with sequence number 395
+time out occured!
+
+sending packet with sequence number 395
+time out occured!
+
+sending packet with sequence number 395
+time out occured!
+
+sending packet with sequence number 395
+time out occured!
+
+sending packet with sequence number 395
+time out occured!
+
+sending packet with sequence number 395
+time out occured!
+
+sending packet with sequence number 395
+ack received for packet 395
+
+sliding the window to the right...
+sending packet with sequence number 396
+sending packet with sequence number 397
+ack received for packet 396
+
+sliding the window to the right...
+sending packet with sequence number 398
+ack received for packet 397
+
+sliding the window to the right...
+sending packet with sequence number 399
+sending packet with sequence number 400
+sending packet with sequence number 401
+ack received for packet 398
+
+sliding the window to the right...
+sending packet with sequence number 402
+ack received for packet 399
+
+sliding the window to the right...
+sending packet with sequence number 403
+ack received for packet 400
+
+sliding the window to the right...
+ack received for packet 401
+
+sliding the window to the right...
+sending packet with sequence number 404
+sending packet with sequence number 405
+ack received for packet 402
+
+sliding the window to the right...
+sending packet with sequence number 406
+ack received for packet 403
+
+sliding the window to the right...
+sending packet with sequence number 407
+ack received for packet 404
+
+sliding the window to the right...
+sending packet with sequence number 408
+time out occured!
+
+sending packet with sequence number 405
+sending packet with sequence number 406
+ack received for packet 405
+
+sliding the window to the right...
+sending packet with sequence number 407
+sending packet with sequence number 408
+time out occured!
+
+sending packet with sequence number 406
+time out occured!
+
+sending packet with sequence number 406
+time out occured!
+
+sending packet with sequence number 406
+ack received for packet 406
+
+sliding the window to the right...
+sending packet with sequence number 407
+sending packet with sequence number 408
+time out occured!
+
+sending packet with sequence number 407
+time out occured!
+
+sending packet with sequence number 407
+ack received for packet 407
+
+sliding the window to the right...
+sending packet with sequence number 408
+sending packet with sequence number 409
+time out occured!
+
+sending packet with sequence number 408
+time out occured!
+
+sending packet with sequence number 408
+time out occured!
+
+sending packet with sequence number 408
+time out occured!
+
+sending packet with sequence number 408
+ack received for packet 408
+
+sliding the window to the right...
+sending packet with sequence number 409
+sending packet with sequence number 410
+ack received for packet 409
+
+sliding the window to the right...
+sending packet with sequence number 411
+sending packet with sequence number 412
+time out occured!
+
+sending packet with sequence number 410
+time out occured!
+
+sending packet with sequence number 410
+time out occured!
+
+sending packet with sequence number 410
+time out occured!
+
+sending packet with sequence number 410
+time out occured!
+
+sending packet with sequence number 410
+time out occured!
+
+sending packet with sequence number 410
+time out occured!
+
+sending packet with sequence number 410
+time out occured!
+
+sending packet with sequence number 410
+ack received for packet 410
+
+sliding the window to the right...
+sending packet with sequence number 411
+sending packet with sequence number 412
+ack received for packet 411
+
+sliding the window to the right...
+sending packet with sequence number 413
+sending packet with sequence number 414
+ack received for packet 412
+
+sliding the window to the right...
+sending packet with sequence number 415
+sending packet with sequence number 416
+time out occured!
+
+sending packet with sequence number 413
+sending packet with sequence number 414
+time out occured!
+
+sending packet with sequence number 413
+ack received for packet 413
+
+sliding the window to the right...
+sending packet with sequence number 414
+sending packet with sequence number 415
+ack received for packet 414
+
+sliding the window to the right...
+ack received for packet 415
+
+sliding the window to the right...
+sending packet with sequence number 416
+sending packet with sequence number 417
+sending packet with sequence number 418
+sending packet with sequence number 419
+time out occured!
+
+sending packet with sequence number 416
+sending packet with sequence number 417
+time out occured!
+
+sending packet with sequence number 416
+time out occured!
+
+sending packet with sequence number 416
+time out occured!
+
+sending packet with sequence number 416
+ack received for packet 416
+
+sliding the window to the right...
+sending packet with sequence number 417
+sending packet with sequence number 418
+time out occured!
+
+sending packet with sequence number 417
+time out occured!
+
+sending packet with sequence number 417
+ack received for packet 417
+
+sliding the window to the right...
+sending packet with sequence number 418
+sending packet with sequence number 419
+ack received for packet 418
+
+sliding the window to the right...
+ack received for packet 419
+
+sliding the window to the right...
+sending packet with sequence number 420
+ack received for packet 420
+
+sliding the window to the right...
+sending packet with sequence number 421
+sending packet with sequence number 422
+sending packet with sequence number 423
+sending packet with sequence number 424
+time out occured!
+
+sending packet with sequence number 421
+sending packet with sequence number 422
+ack received for packet 421
+
+sliding the window to the right...
+sending packet with sequence number 423
+sending packet with sequence number 424
+ack received for packet 422
+
+sliding the window to the right...
+sending packet with sequence number 425
+sending packet with sequence number 426
+ack received for packet 423
+
+sliding the window to the right...
+sending packet with sequence number 427
+time out occured!
+
+sending packet with sequence number 424
+sending packet with sequence number 425
+time out occured!
+
+sending packet with sequence number 424
+ack received for packet 424
+
+sliding the window to the right...
+sending packet with sequence number 425
+sending packet with sequence number 426
+time out occured!
+
+sending packet with sequence number 425
+time out occured!
+
+sending packet with sequence number 425
+time out occured!
+
+sending packet with sequence number 425
+time out occured!
+
+sending packet with sequence number 425
+time out occured!
+
+sending packet with sequence number 425
+ack received for packet 425
+
+sliding the window to the right...
+sending packet with sequence number 426
+sending packet with sequence number 427
+ack received for packet 426
+
+sliding the window to the right...
+sending packet with sequence number 428
+sending packet with sequence number 429
+ack received for packet 427
+
+sliding the window to the right...
+sending packet with sequence number 430
+sending packet with sequence number 431
+ack received for packet 428
+
+sliding the window to the right...
+sending packet with sequence number 432
+time out occured!
+
+sending packet with sequence number 429
+sending packet with sequence number 430
+ack received for packet 429
+
+sliding the window to the right...
+ack received for packet 430
+
+sliding the window to the right...
+sending packet with sequence number 431
+sending packet with sequence number 432
+sending packet with sequence number 433
+sending packet with sequence number 434
+time out occured!
+
+sending packet with sequence number 431
+sending packet with sequence number 432
+time out occured!
+
+sending packet with sequence number 431
+time out occured!
+
+sending packet with sequence number 431
+time out occured!
+
+sending packet with sequence number 431
+ack received for packet 431
+
+sliding the window to the right...
+sending packet with sequence number 432
+sending packet with sequence number 433
+ack received for packet 432
+
+sliding the window to the right...
+ack received for packet 433
+
+sliding the window to the right...
+sending packet with sequence number 434
+sending packet with sequence number 435
+sending packet with sequence number 436
+sending packet with sequence number 437
+time out occured!
+
+sending packet with sequence number 434
+sending packet with sequence number 435
+ack received for packet 434
+
+sliding the window to the right...
+ack received for packet 435
+
+sliding the window to the right...
+sending packet with sequence number 436
+sending packet with sequence number 437
+sending packet with sequence number 438
+sending packet with sequence number 439
+ack received for packet 436
+
+sliding the window to the right...
+ack received for packet 437
+
+sliding the window to the right...
+ack received for packet 438
+
+sliding the window to the right...
+ack received for packet 439
+
+sliding the window to the right...
+sending packet with sequence number 440
+sending packet with sequence number 441
+sending packet with sequence number 442
+sending packet with sequence number 443
+time out occured!
+
+sending packet with sequence number 440
+sending packet with sequence number 441
+time out occured!
+
+sending packet with sequence number 440
+time out occured!
+
+sending packet with sequence number 440
+ack received for packet 440
+
+sliding the window to the right...
+sending packet with sequence number 441
+sending packet with sequence number 442
+time out occured!
+
+sending packet with sequence number 441
+time out occured!
+
+sending packet with sequence number 441
+time out occured!
+
+sending packet with sequence number 441
+time out occured!
+
+sending packet with sequence number 441
+time out occured!
+
+sending packet with sequence number 441
+time out occured!
+
+sending packet with sequence number 441
+time out occured!
+
+sending packet with sequence number 441
+ack received for packet 441
+
+sliding the window to the right...
+sending packet with sequence number 442
+sending packet with sequence number 443
+time out occured!
+
+sending packet with sequence number 442
+time out occured!
+
+sending packet with sequence number 442
+time out occured!
+
+sending packet with sequence number 442
+time out occured!
+
+sending packet with sequence number 442
+time out occured!
+
+sending packet with sequence number 442
+ack received for packet 442
+
+sliding the window to the right...
+sending packet with sequence number 443
+sending packet with sequence number 444
+time out occured!
+
+sending packet with sequence number 443
+time out occured!
+
+sending packet with sequence number 443
+time out occured!
+
+sending packet with sequence number 443
+time out occured!
+
+sending packet with sequence number 443
+ack received for packet 443
+
+sliding the window to the right...
+sending packet with sequence number 444
+sending packet with sequence number 445
+time out occured!
+
+sending packet with sequence number 444
+time out occured!
+
+sending packet with sequence number 444
+ack received for packet 444
+
+sliding the window to the right...
+sending packet with sequence number 445
+sending packet with sequence number 446
+time out occured!
+
+sending packet with sequence number 445
+time out occured!
+
+sending packet with sequence number 445
+time out occured!
+
+sending packet with sequence number 445
+time out occured!
+
+sending packet with sequence number 445
+ack received for packet 445
+
+sliding the window to the right...
+sending packet with sequence number 446
+sending packet with sequence number 447
+ack received for packet 446
+
+sliding the window to the right...
+sending packet with sequence number 448
+sending packet with sequence number 449
+ack received for packet 447
+
+sliding the window to the right...
+sending packet with sequence number 450
+sending packet with sequence number 451
+time out occured!
+
+sending packet with sequence number 448
+sending packet with sequence number 449
+ack received for packet 448
+
+sliding the window to the right...
+ack received for packet 449
+
+sliding the window to the right...
+sending packet with sequence number 450
+sending packet with sequence number 451
+sending packet with sequence number 452
+sending packet with sequence number 453
+ack received for packet 450
+
+sliding the window to the right...
+ack received for packet 451
+
+sliding the window to the right...
+ack received for packet 452
+
+sliding the window to the right...
+sending packet with sequence number 454
+sending packet with sequence number 455
+sending packet with sequence number 456
+ack received for packet 454
+
+ack received for packet 455
+
+ack received for packet 456
+
+time out occured!
+
+sending packet with sequence number 453
+sending packet with sequence number 454
+time out occured!
+
+sending packet with sequence number 453
+ack received for packet 453
+
+sliding the window to the right...
+sending packet with sequence number 454
+sending packet with sequence number 455
+ack received for packet 454
+
+sliding the window to the right...
+sending packet with sequence number 456
+sending packet with sequence number 457
+ack received for packet 455
+
+sliding the window to the right...
+sending packet with sequence number 458
+sending packet with sequence number 459
+time out occured!
+
+sending packet with sequence number 456
+sending packet with sequence number 457
+time out occured!
+
+sending packet with sequence number 456
+ack received for packet 456
+
+sliding the window to the right...
+sending packet with sequence number 457
+sending packet with sequence number 458
+ack received for packet 457
+
+sliding the window to the right...
+sending packet with sequence number 459
+sending packet with sequence number 460
+ack received for packet 458
+
+sliding the window to the right...
+sending packet with sequence number 461
+sending packet with sequence number 462
+time out occured!
+
+sending packet with sequence number 459
+sending packet with sequence number 460
+time out occured!
+
+sending packet with sequence number 459
+time out occured!
+
+sending packet with sequence number 459
+time out occured!
+
+sending packet with sequence number 459
+time out occured!
+
+sending packet with sequence number 459
+ack received for packet 459
+
+sliding the window to the right...
+sending packet with sequence number 460
+sending packet with sequence number 461
+ack received for packet 460
+
+sliding the window to the right...
+ack received for packet 461
+
+sliding the window to the right...
+sending packet with sequence number 462
+sending packet with sequence number 463
+sending packet with sequence number 464
+sending packet with sequence number 465
+time out occured!
+
+sending packet with sequence number 462
+sending packet with sequence number 463
+ack received for packet 462
+
+sliding the window to the right...
+ack received for packet 463
+
+sliding the window to the right...
+sending packet with sequence number 464
+sending packet with sequence number 465
+sending packet with sequence number 466
+sending packet with sequence number 467
+time out occured!
+
+sending packet with sequence number 464
+sending packet with sequence number 465
+time out occured!
+
+sending packet with sequence number 464
+time out occured!
+
+sending packet with sequence number 464
+time out occured!
+
+sending packet with sequence number 464
+time out occured!
+
+sending packet with sequence number 464
+ack received for packet 464
+
+sliding the window to the right...
+sending packet with sequence number 465
+sending packet with sequence number 466
+time out occured!
+
+sending packet with sequence number 465
+ack received for packet 465
+
+sliding the window to the right...
+sending packet with sequence number 466
+sending packet with sequence number 467
+ack received for packet 466
+
+sliding the window to the right...
+ack received for packet 467
+
+sliding the window to the right...
+sending packet with sequence number 468
+sending packet with sequence number 469
+sending packet with sequence number 470
+sending packet with sequence number 471
+time out occured!
+
+sending packet with sequence number 468
+sending packet with sequence number 469
+time out occured!
+
+sending packet with sequence number 468
+ack received for packet 468
+
+sliding the window to the right...
+sending packet with sequence number 469
+ack received for packet 469
+
+sliding the window to the right...
+sending packet with sequence number 470
+sending packet with sequence number 471
+sending packet with sequence number 472
+time out occured!
+
+sending packet with sequence number 470
+ack received for packet 470
+
+sliding the window to the right...
+sending packet with sequence number 471
+sending packet with sequence number 472
+time out occured!
+
+sending packet with sequence number 471
+time out occured!
+
+sending packet with sequence number 471
+time out occured!
+
+sending packet with sequence number 471
+ack received for packet 471
+
+sliding the window to the right...
+sending packet with sequence number 472
+sending packet with sequence number 473
+ack received for packet 472
+
+sliding the window to the right...
+sending packet with sequence number 474
+sending packet with sequence number 475
+ack received for packet 473
+
+sliding the window to the right...
+sending packet with sequence number 476
+sending packet with sequence number 477
+time out occured!
+
+sending packet with sequence number 474
+sending packet with sequence number 475
+time out occured!
+
+sending packet with sequence number 474
+time out occured!
+
+sending packet with sequence number 474
+ack received for packet 474
+
+sliding the window to the right...
+sending packet with sequence number 475
+sending packet with sequence number 476
+ack received for packet 475
+
+sliding the window to the right...
+ack received for packet 476
+
+sliding the window to the right...
+sending packet with sequence number 477
+sending packet with sequence number 478
+sending packet with sequence number 479
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 477
+sending packet with sequence number 478
+time out occured!
+
+sending packet with sequence number 477
+time out occured!
+
+sending packet with sequence number 477
+time out occured!
+
+sending packet with sequence number 477
+time out occured!
+
+sending packet with sequence number 477
+time out occured!
+
+sending packet with sequence number 477
+time out occured!
+
+sending packet with sequence number 477
+time out occured!
+
+sending packet with sequence number 477
+time out occured!
+
+sending packet with sequence number 477
+ack received for packet 477
+
+sliding the window to the right...
+sending packet with sequence number 478
+sending packet with sequence number 479
+time out occured!
+
+sending packet with sequence number 478
+time out occured!
+
+sending packet with sequence number 478
+ack received for packet 478
+
+sliding the window to the right...
+sending packet with sequence number 479
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 479
+time out occured!
+
+sending packet with sequence number 479
+time out occured!
+
+sending packet with sequence number 479
+time out occured!
+
+sending packet with sequence number 479
+time out occured!
+
+sending packet with sequence number 479
+time out occured!
+
+sending packet with sequence number 479
+ack received for packet 479
+
+sliding the window to the right...
+sending packet with sequence number 480
+sending packet with sequence number 481
+time out occured!
+
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 480
+time out occured!
+
+sending packet with sequence number 480
+ack received for packet 480
+
+sliding the window to the right...
+sending packet with sequence number 481
+sending packet with sequence number 482
+time out occured!
+
+sending packet with sequence number 481
+ack received for packet 481
+
+sliding the window to the right...
+sending packet with sequence number 482
+sending packet with sequence number 483
+ack received for packet 482
+
+sliding the window to the right...
+ack received for packet 483
+
+sliding the window to the right...
+sending packet with sequence number 484
+sending packet with sequence number 485
+sending packet with sequence number 486
+sending packet with sequence number 487
+ack received for packet 484
+
+sliding the window to the right...
+ack received for packet 485
+
+sliding the window to the right...
+sending packet with sequence number 488
+sending packet with sequence number 489
+time out occured!
+
+sending packet with sequence number 486
+sending packet with sequence number 487
+time out occured!
+
+sending packet with sequence number 486
+ack received for packet 486
+
+sliding the window to the right...
+sending packet with sequence number 487
+sending packet with sequence number 488
+ack received for packet 487
+
+sliding the window to the right...
+ack received for packet 488
+
+sliding the window to the right...
+sending packet with sequence number 489
+sending packet with sequence number 490
+sending packet with sequence number 491
+sending packet with sequence number 492
+time out occured!
+
+sending packet with sequence number 489
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 489
+ack received for packet 489
+
+sliding the window to the right...
+sending packet with sequence number 490
+sending packet with sequence number 491
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+time out occured!
+
+sending packet with sequence number 490
+ack received for packet 490
+
+sliding the window to the right...
+sending packet with sequence number 491
+sending packet with sequence number 492
+ack received for packet 491
+
+sliding the window to the right...
+sending packet with sequence number 493
+sending packet with sequence number 494
+ack received for packet 492
+
+sliding the window to the right...
+sending packet with sequence number 495
+sending packet with sequence number 496
+time out occured!
+
+sending packet with sequence number 493
+sending packet with sequence number 494
+time out occured!
+
+sending packet with sequence number 493
+time out occured!
+
+sending packet with sequence number 493
+time out occured!
+
+sending packet with sequence number 493
+time out occured!
+
+sending packet with sequence number 493
+ack received for packet 493
+
+sliding the window to the right...
+sending packet with sequence number 494
+sending packet with sequence number 495
+time out occured!
+
+sending packet with sequence number 494
+ack received for packet 494
+
+sliding the window to the right...
+sending packet with sequence number 495
+sending packet with sequence number 496
+ack received for packet 495
+
+sliding the window to the right...
+sending packet with sequence number 497
+sending packet with sequence number 498
+ack received for packet 496
+
+sliding the window to the right...
+sending packet with sequence number 499
+sending packet with sequence number 500
+ack received for packet 497
+
+sliding the window to the right...
+sending packet with sequence number 501
+time out occured!
+
+sending packet with sequence number 498
+sending packet with sequence number 499
+time out occured!
+
+sending packet with sequence number 498
+ack received for packet 498
+
+sliding the window to the right...
+sending packet with sequence number 499
+sending packet with sequence number 500
+ack received for packet 499
+
+sliding the window to the right...
+sending packet with sequence number 501
+sending packet with sequence number 502
+ack received for packet 500
+
+sliding the window to the right...
+sending packet with sequence number 503
+sending packet with sequence number 504
+time out occured!
+
+sending packet with sequence number 501
+sending packet with sequence number 502
+time out occured!
+
+sending packet with sequence number 501
+time out occured!
+
+sending packet with sequence number 501
+ack received for packet 501
+
+sliding the window to the right...
+sending packet with sequence number 502
+sending packet with sequence number 503
+ack received for packet 502
+
+sliding the window to the right...
+ack received for packet 503
+
+sliding the window to the right...
+sending packet with sequence number 504
+sending packet with sequence number 505
+sending packet with sequence number 506
+sending packet with sequence number 507
+time out occured!
+
+sending packet with sequence number 504
+sending packet with sequence number 505
+time out occured!
+
+sending packet with sequence number 504
+ack received for packet 504
+
+sliding the window to the right...
+sending packet with sequence number 505
+sending packet with sequence number 506
+time out occured!
+
+sending packet with sequence number 505
+ack received for packet 505
+
+sliding the window to the right...
+sending packet with sequence number 506
+sending packet with sequence number 507
+ack received for packet 506
+
+sliding the window to the right...
+ack received for packet 507
+
+sliding the window to the right...
+sending packet with sequence number 508
+sending packet with sequence number 509
+sending packet with sequence number 510
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 508
+sending packet with sequence number 509
+time out occured!
+
+sending packet with sequence number 508
+ack received for packet 508
+
+sliding the window to the right...
+sending packet with sequence number 509
+ack received for packet 509
+
+sliding the window to the right...
+sending packet with sequence number 510
+sending packet with sequence number 511
+sending packet with sequence number 512
+time out occured!
+
+sending packet with sequence number 510
+time out occured!
+
+sending packet with sequence number 510
+time out occured!
+
+sending packet with sequence number 510
+time out occured!
+
+sending packet with sequence number 510
+time out occured!
+
+sending packet with sequence number 510
+ack received for packet 510
+
+sliding the window to the right...
+sending packet with sequence number 511
+sending packet with sequence number 512
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+time out occured!
+
+sending packet with sequence number 511
+ack received for packet 511
+
+sliding the window to the right...
+sending packet with sequence number 512
+sending packet with sequence number 513
+time out occured!
+
+sending packet with sequence number 512
+time out occured!
+
+sending packet with sequence number 512
+time out occured!
+
+sending packet with sequence number 512
+ack received for packet 512
+
+sliding the window to the right...
+sending packet with sequence number 513
+sending packet with sequence number 514
+time out occured!
+
+sending packet with sequence number 513
+time out occured!
+
+sending packet with sequence number 513
+time out occured!
+
+sending packet with sequence number 513
+ack received for packet 513
+
+sliding the window to the right...
+sending packet with sequence number 514
+sending packet with sequence number 515
+ack received for packet 514
+
+sliding the window to the right...
+ack received for packet 515
+
+sliding the window to the right...
+sending packet with sequence number 516
+sending packet with sequence number 517
+sending packet with sequence number 518
+sending packet with sequence number 519
+time out occured!
+
+sending packet with sequence number 516
+sending packet with sequence number 517
+time out occured!
+
+sending packet with sequence number 516
+time out occured!
+
+sending packet with sequence number 516
+ack received for packet 516
+
+sliding the window to the right...
+sending packet with sequence number 517
+sending packet with sequence number 518
+time out occured!
+
+sending packet with sequence number 517
+time out occured!
+
+sending packet with sequence number 517
+time out occured!
+
+sending packet with sequence number 517
+ack received for packet 517
+
+sliding the window to the right...
+sending packet with sequence number 518
+sending packet with sequence number 519
+ack received for packet 518
+
+sliding the window to the right...
+ack received for packet 519
+
+sliding the window to the right...
+sending packet with sequence number 520
+sending packet with sequence number 521
+sending packet with sequence number 522
+sending packet with sequence number 523
+time out occured!
+
+sending packet with sequence number 520
+sending packet with sequence number 521
+ack received for packet 520
+
+sliding the window to the right...
+sending packet with sequence number 522
+sending packet with sequence number 523
+ack received for packet 521
+
+sliding the window to the right...
+sending packet with sequence number 524
+sending packet with sequence number 525
+ack received for packet 522
+
+sliding the window to the right...
+sending packet with sequence number 526
+ack received for packet 523
+
+sliding the window to the right...
+sending packet with sequence number 527
+ack received for packet 526
+
+ack received for packet 527
+
+time out occured!
+
+sending packet with sequence number 524
+sending packet with sequence number 525
+time out occured!
+
+sending packet with sequence number 524
+time out occured!
+
+sending packet with sequence number 524
+time out occured!
+
+sending packet with sequence number 524
+ack received for packet 524
+
+sliding the window to the right...
+sending packet with sequence number 525
+sending packet with sequence number 526
+time out occured!
+
+sending packet with sequence number 525
+time out occured!
+
+sending packet with sequence number 525
+time out occured!
+
+sending packet with sequence number 525
+time out occured!
+
+sending packet with sequence number 525
+time out occured!
+
+sending packet with sequence number 525
+ack received for packet 525
+
+sliding the window to the right...
+sending packet with sequence number 526
+sending packet with sequence number 527
+ack received for packet 527
+
+time out occured!
+
+sending packet with sequence number 526
+time out occured!
+
+sending packet with sequence number 526
+time out occured!
+
+sending packet with sequence number 526
+time out occured!
+
+sending packet with sequence number 526
+time out occured!
+
+sending packet with sequence number 526
+ack received for packet 526
+
+sliding the window to the right...
+sending packet with sequence number 527
+sending packet with sequence number 528
+time out occured!
+
+sending packet with sequence number 527
+time out occured!
+
+sending packet with sequence number 527
+time out occured!
+
+sending packet with sequence number 527
+ack received for packet 527
+
+sliding the window to the right...
+sending packet with sequence number 528
+sending packet with sequence number 529
+time out occured!
+
+sending packet with sequence number 528
+time out occured!
+
+sending packet with sequence number 528
+ack received for packet 528
+
+sliding the window to the right...
+sending packet with sequence number 529
+sending packet with sequence number 530
+time out occured!
+
+sending packet with sequence number 529
+ack received for packet 529
+
+sliding the window to the right...
+sending packet with sequence number 530
+ack received for packet 530
+
+sliding the window to the right...
+sending packet with sequence number 531
+sending packet with sequence number 532
+sending packet with sequence number 533
+time out occured!
+
+sending packet with sequence number 531
+ack received for packet 531
+
+sliding the window to the right...
+sending packet with sequence number 532
+sending packet with sequence number 533
+time out occured!
+
+sending packet with sequence number 532
+time out occured!
+
+sending packet with sequence number 532
+time out occured!
+
+sending packet with sequence number 532
+time out occured!
+
+sending packet with sequence number 532
+ack received for packet 532
+
+sliding the window to the right...
+sending packet with sequence number 533
+sending packet with sequence number 534
+ack received for packet 533
+
+sliding the window to the right...
+sending packet with sequence number 535
+sending packet with sequence number 536
+ack received for packet 534
+
+sliding the window to the right...
+sending packet with sequence number 537
+sending packet with sequence number 538
+ack received for packet 535
+
+sliding the window to the right...
+sending packet with sequence number 539
+ack received for packet 536
+
+sliding the window to the right...
+sending packet with sequence number 540
+ack received for packet 537
+
+sliding the window to the right...
+sending packet with sequence number 541
+time out occured!
+
+sending packet with sequence number 538
+sending packet with sequence number 539
+time out occured!
+
+sending packet with sequence number 538
+time out occured!
+
+sending packet with sequence number 538
+time out occured!
+
+sending packet with sequence number 538
+time out occured!
+
+sending packet with sequence number 538
+time out occured!
+
+sending packet with sequence number 538
+ack received for packet 538
+
+sliding the window to the right...
+sending packet with sequence number 539
+sending packet with sequence number 540
+time out occured!
+
+sending packet with sequence number 539
+time out occured!
+
+sending packet with sequence number 539
+time out occured!
+
+sending packet with sequence number 539
+time out occured!
+
+sending packet with sequence number 539
+ack received for packet 539
+
+sliding the window to the right...
+sending packet with sequence number 540
+sending packet with sequence number 541
+time out occured!
+
+sending packet with sequence number 540
+time out occured!
+
+sending packet with sequence number 540
+time out occured!
+
+sending packet with sequence number 540
+ack received for packet 540
+
+sliding the window to the right...
+sending packet with sequence number 541
+sending packet with sequence number 542
+time out occured!
+
+sending packet with sequence number 541
+time out occured!
+
+sending packet with sequence number 541
+time out occured!
+
+sending packet with sequence number 541
+ack received for packet 541
+
+sliding the window to the right...
+sending packet with sequence number 542
+sending packet with sequence number 543
+time out occured!
+
+sending packet with sequence number 542
+ack received for packet 542
+
+sliding the window to the right...
+sending packet with sequence number 543
+ack received for packet 543
+
+sliding the window to the right...
+sending packet with sequence number 544
+sending packet with sequence number 545
+sending packet with sequence number 546
+time out occured!
+
+sending packet with sequence number 544
+time out occured!
+
+sending packet with sequence number 544
+time out occured!
+
+sending packet with sequence number 544
+time out occured!
+
+sending packet with sequence number 544
+time out occured!
+
+sending packet with sequence number 544
+ack received for packet 544
+
+sliding the window to the right...
+sending packet with sequence number 545
+sending packet with sequence number 546
+ack received for packet 545
+
+sliding the window to the right...
+sending packet with sequence number 547
+sending packet with sequence number 548
+ack received for packet 546
+
+sliding the window to the right...
+sending packet with sequence number 549
+sending packet with sequence number 550
+ack received for packet 547
+
+sliding the window to the right...
+ack received for packet 548
+
+sliding the window to the right...
+ack received for packet 549
+
+sliding the window to the right...
+sending packet with sequence number 551
+sending packet with sequence number 552
+sending packet with sequence number 553
+time out occured!
+
+sending packet with sequence number 550
+sending packet with sequence number 551
+ack received for packet 550
+
+sliding the window to the right...
+ack received for packet 551
+
+sliding the window to the right...
+sending packet with sequence number 552
+sending packet with sequence number 553
+sending packet with sequence number 554
+sending packet with sequence number 555
+time out occured!
+
+sending packet with sequence number 552
+sending packet with sequence number 553
+ack received for packet 552
+
+sliding the window to the right...
+sending packet with sequence number 554
+ack received for packet 553
+
+sliding the window to the right...
+ack received for packet 554
+
+sliding the window to the right...
+sending packet with sequence number 555
+sending packet with sequence number 556
+sending packet with sequence number 557
+sending packet with sequence number 558
+time out occured!
+
+sending packet with sequence number 555
+sending packet with sequence number 556
+time out occured!
+
+sending packet with sequence number 555
+time out occured!
+
+sending packet with sequence number 555
+time out occured!
+
+sending packet with sequence number 555
+ack received for packet 555
+
+sliding the window to the right...
+sending packet with sequence number 556
+sending packet with sequence number 557
+time out occured!
+
+sending packet with sequence number 556
+time out occured!
+
+sending packet with sequence number 556
+time out occured!
+
+sending packet with sequence number 556
+ack received for packet 556
+
+sliding the window to the right...
+sending packet with sequence number 557
+sending packet with sequence number 558
+time out occured!
+
+sending packet with sequence number 557
+ack received for packet 557
+
+sliding the window to the right...
+sending packet with sequence number 558
+ack received for packet 558
+
+sliding the window to the right...
+sending packet with sequence number 559
+sending packet with sequence number 560
+sending packet with sequence number 561
+time out occured!
+
+sending packet with sequence number 559
+time out occured!
+
+sending packet with sequence number 559
+time out occured!
+
+sending packet with sequence number 559
+time out occured!
+
+sending packet with sequence number 559
+time out occured!
+
+sending packet with sequence number 559
+ack received for packet 559
+
+sliding the window to the right...
+sending packet with sequence number 560
+sending packet with sequence number 561
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+time out occured!
+
+sending packet with sequence number 560
+ack received for packet 560
+
+sliding the window to the right...
+sending packet with sequence number 561
+sending packet with sequence number 562
+ack received for packet 561
+
+sliding the window to the right...
+sending packet with sequence number 563
+sending packet with sequence number 564
+ack received for packet 562
+
+sliding the window to the right...
+sending packet with sequence number 565
+sending packet with sequence number 566
+time out occured!
+
+sending packet with sequence number 563
+sending packet with sequence number 564
+ack received for packet 563
+
+sliding the window to the right...
+ack received for packet 564
+
+sliding the window to the right...
+sending packet with sequence number 565
+sending packet with sequence number 566
+sending packet with sequence number 567
+sending packet with sequence number 568
+time out occured!
+
+sending packet with sequence number 565
+sending packet with sequence number 566
+time out occured!
+
+sending packet with sequence number 565
+ack received for packet 565
+
+sliding the window to the right...
+sending packet with sequence number 566
+sending packet with sequence number 567
+ack received for packet 566
+
+sliding the window to the right...
+sending packet with sequence number 568
+sending packet with sequence number 569
+ack received for packet 567
+
+sliding the window to the right...
+sending packet with sequence number 570
+sending packet with sequence number 571
+ack received for packet 569
+
+time out occured!
+
+sending packet with sequence number 568
+sending packet with sequence number 569
+ack received for packet 568
+
+sliding the window to the right...
+ack received for packet 569
+
+sliding the window to the right...
+sending packet with sequence number 570
+sending packet with sequence number 571
+sending packet with sequence number 572
+sending packet with sequence number 573
+ack received for packet 570
+
+sliding the window to the right...
+ack received for packet 572
+
+sending packet with sequence number 574
+ack received for packet 573
+
+time out occured!
+
+sending packet with sequence number 571
+sending packet with sequence number 572
+time out occured!
+
+sending packet with sequence number 571
+time out occured!
+
+sending packet with sequence number 571
+time out occured!
+
+sending packet with sequence number 571
+time out occured!
+
+sending packet with sequence number 571
+time out occured!
+
+sending packet with sequence number 571
+time out occured!
+
+sending packet with sequence number 571
+ack received for packet 571
+
+sliding the window to the right...
+sending packet with sequence number 572
+sending packet with sequence number 573
+ack received for packet 572
+
+sliding the window to the right...
+sending packet with sequence number 574
+sending packet with sequence number 575
+ack received for packet 574
+
+time out occured!
+
+sending packet with sequence number 573
+ack received for packet 573
+
+sliding the window to the right...
+sending packet with sequence number 574
+sending packet with sequence number 575
+time out occured!
+
+sending packet with sequence number 574
+time out occured!
+
+sending packet with sequence number 574
+time out occured!
+
+sending packet with sequence number 574
+time out occured!
+
+sending packet with sequence number 574
+time out occured!
+
+sending packet with sequence number 574
+ack received for packet 574
+
+sliding the window to the right...
+sending packet with sequence number 575
+sending packet with sequence number 576
+ack received for packet 575
+
+sliding the window to the right...
+sending packet with sequence number 577
+sending packet with sequence number 578
+ack received for packet 576
+
+sliding the window to the right...
+sending packet with sequence number 579
+sending packet with sequence number 580
+time out occured!
+
+sending packet with sequence number 577
+sending packet with sequence number 578
+time out occured!
+
+sending packet with sequence number 577
+ack received for packet 577
+
+sliding the window to the right...
+sending packet with sequence number 578
+sending packet with sequence number 579
+ack received for packet 578
+
+sliding the window to the right...
+sending packet with sequence number 580
+sending packet with sequence number 581
+ack received for packet 580
+
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+time out occured!
+
+sending packet with sequence number 579
+ack received for packet 579
+
+sliding the window to the right...
+sending packet with sequence number 580
+sending packet with sequence number 581
+time out occured!
+
+sending packet with sequence number 580
+time out occured!
+
+sending packet with sequence number 580
+time out occured!
+
+sending packet with sequence number 580
+ack received for packet 580
+
+sliding the window to the right...
+sending packet with sequence number 581
+sending packet with sequence number 582
+ack received for packet 581
+
+sliding the window to the right...
+ack received for packet 582
+
+sliding the window to the right...
+sending packet with sequence number 583
+sending packet with sequence number 584
+sending packet with sequence number 585
+sending packet with sequence number 586
+time out occured!
+
+sending packet with sequence number 583
+sending packet with sequence number 584
+ack received for packet 583
+
+sliding the window to the right...
+ack received for packet 584
+
+sliding the window to the right...
+sending packet with sequence number 585
+sending packet with sequence number 586
+sending packet with sequence number 587
+sending packet with sequence number 588
+ack received for packet 585
+
+sliding the window to the right...
+ack received for packet 586
+
+sliding the window to the right...
+sending packet with sequence number 589
+sending packet with sequence number 590
+time out occured!
+
+sending packet with sequence number 587
+sending packet with sequence number 588
+ack received for packet 587
+
+sliding the window to the right...
+sending packet with sequence number 589
+ack received for packet 588
+
+sliding the window to the right...
+sending packet with sequence number 590
+sending packet with sequence number 591
+sending packet with sequence number 592
+time out occured!
+
+sending packet with sequence number 589
+ack received for packet 589
+
+sliding the window to the right...
+sending packet with sequence number 590
+sending packet with sequence number 591
+sending packet with sequence number 592
+ack received for packet 590
+
+sliding the window to the right...
+sending packet with sequence number 593
+sending packet with sequence number 594
+ack received for packet 591
+
+sliding the window to the right...
+sending packet with sequence number 595
+ack received for packet 592
+
+sliding the window to the right...
+sending packet with sequence number 596
+ack received for packet 594
+
+time out occured!
+
+sending packet with sequence number 593
+sending packet with sequence number 594
+time out occured!
+
+sending packet with sequence number 593
+time out occured!
+
+sending packet with sequence number 593
+time out occured!
+
+sending packet with sequence number 593
+time out occured!
+
+sending packet with sequence number 593
+time out occured!
+
+sending packet with sequence number 593
+time out occured!
+
+sending packet with sequence number 593
+time out occured!
+
+sending packet with sequence number 593
+time out occured!
+
+sending packet with sequence number 593
+ack received for packet 593
+
+sliding the window to the right...
+sending packet with sequence number 594
+sending packet with sequence number 595
+time out occured!
+
+sending packet with sequence number 594
+time out occured!
+
+sending packet with sequence number 594
+ack received for packet 594
+
+sliding the window to the right...
+sending packet with sequence number 595
+sending packet with sequence number 596
+ack received for packet 595
+
+sliding the window to the right...
+ack received for packet 596
+
+sliding the window to the right...
+sending packet with sequence number 597
+sending packet with sequence number 598
+sending packet with sequence number 599
+sending packet with sequence number 600
+ack received for packet 597
+
+sliding the window to the right...
+sending packet with sequence number 601
+ack received for packet 598
+
+sliding the window to the right...
+ack received for packet 600
+
+sending packet with sequence number 602
+ack received for packet 601
+
+time out occured!
+
+sending packet with sequence number 599
+sending packet with sequence number 600
+ack received for packet 599
+
+sliding the window to the right...
+ack received for packet 600
+
+sliding the window to the right...
+sending packet with sequence number 601
+sending packet with sequence number 602
+sending packet with sequence number 603
+sending packet with sequence number 604
+time out occured!
+
+sending packet with sequence number 601
+sending packet with sequence number 602
+ack received for packet 601
+
+sliding the window to the right...
+ack received for packet 602
+
+sliding the window to the right...
+sending packet with sequence number 603
+sending packet with sequence number 604
+sending packet with sequence number 605
+sending packet with sequence number 606
+time out occured!
+
+sending packet with sequence number 603
+sending packet with sequence number 604
+time out occured!
+
+sending packet with sequence number 603
+time out occured!
+
+sending packet with sequence number 603
+ack received for packet 603
+
+sliding the window to the right...
+sending packet with sequence number 604
+sending packet with sequence number 605
+ack received for packet 604
+
+sliding the window to the right...
+ack received for packet 605
+
+sliding the window to the right...
+sending packet with sequence number 606
+sending packet with sequence number 607
+sending packet with sequence number 608
+sending packet with sequence number 609
+ack received for packet 606
+
+sliding the window to the right...
+ack received for packet 607
+
+sliding the window to the right...
+sending packet with sequence number 610
+sending packet with sequence number 611
+ack received for packet 608
+
+sliding the window to the right...
+sending packet with sequence number 612
+time out occured!
+
+sending packet with sequence number 609
+sending packet with sequence number 610
+time out occured!
+
+sending packet with sequence number 609
+time out occured!
+
+sending packet with sequence number 609
+time out occured!
+
+sending packet with sequence number 609
+time out occured!
+
+sending packet with sequence number 609
+ack received for packet 609
+
+sliding the window to the right...
+sending packet with sequence number 610
+sending packet with sequence number 611
+ack received for packet 610
+
+sliding the window to the right...
+sending packet with sequence number 612
+sending packet with sequence number 613
+ack received for packet 611
+
+sliding the window to the right...
+sending packet with sequence number 614
+sending packet with sequence number 615
+ack received for packet 613
+
+time out occured!
+
+sending packet with sequence number 612
+sending packet with sequence number 613
+time out occured!
+
+sending packet with sequence number 612
+time out occured!
+
+sending packet with sequence number 612
+time out occured!
+
+sending packet with sequence number 612
+time out occured!
+
+sending packet with sequence number 612
+time out occured!
+
+sending packet with sequence number 612
+ack received for packet 612
+
+sliding the window to the right...
+sending packet with sequence number 613
+sending packet with sequence number 614
+time out occured!
+
+sending packet with sequence number 613
+time out occured!
+
+sending packet with sequence number 613
+time out occured!
+
+sending packet with sequence number 613
+time out occured!
+
+sending packet with sequence number 613
+time out occured!
+
+sending packet with sequence number 613
+time out occured!
+
+sending packet with sequence number 613
+ack received for packet 613
+
+sliding the window to the right...
+sending packet with sequence number 614
+sending packet with sequence number 615
+time out occured!
+
+sending packet with sequence number 614
+time out occured!
+
+sending packet with sequence number 614
+ack received for packet 614
+
+sliding the window to the right...
+sending packet with sequence number 615
+sending packet with sequence number 616
+time out occured!
+
+sending packet with sequence number 615
+time out occured!
+
+sending packet with sequence number 615
+time out occured!
+
+sending packet with sequence number 615
+ack received for packet 615
+
+sliding the window to the right...
+sending packet with sequence number 616
+sending packet with sequence number 617
+time out occured!
+
+sending packet with sequence number 616
+time out occured!
+
+sending packet with sequence number 616
+time out occured!
+
+sending packet with sequence number 616
+ack received for packet 616
+
+sliding the window to the right...
+sending packet with sequence number 617
+sending packet with sequence number 618
+time out occured!
+
+sending packet with sequence number 617
+time out occured!
+
+sending packet with sequence number 617
+time out occured!
+
+sending packet with sequence number 617
+time out occured!
+
+sending packet with sequence number 617
+time out occured!
+
+sending packet with sequence number 617
+ack received for packet 617
+
+sliding the window to the right...
+sending packet with sequence number 618
+sending packet with sequence number 619
+time out occured!
+
+sending packet with sequence number 618
+time out occured!
+
+sending packet with sequence number 618
+time out occured!
+
+sending packet with sequence number 618
+time out occured!
+
+sending packet with sequence number 618
+ack received for packet 618
+
+sliding the window to the right...
+sending packet with sequence number 619
+sending packet with sequence number 620
+ack received for packet 619
+
+sliding the window to the right...
+sending packet with sequence number 621
+sending packet with sequence number 622
+ack received for packet 620
+
+sliding the window to the right...
+sending packet with sequence number 623
+sending packet with sequence number 624
+ack received for packet 621
+
+sliding the window to the right...
+sending packet with sequence number 625
+ack received for packet 622
+
+sliding the window to the right...
+sending packet with sequence number 626
+ack received for packet 623
+
+sliding the window to the right...
+sending packet with sequence number 627
+ack received for packet 624
+
+sliding the window to the right...
+ack received for packet 625
+
+sliding the window to the right...
+sending packet with sequence number 628
+sending packet with sequence number 629
+time out occured!
+
+sending packet with sequence number 626
+sending packet with sequence number 627
+time out occured!
+
+sending packet with sequence number 626
+time out occured!
+
+sending packet with sequence number 626
+time out occured!
+
+sending packet with sequence number 626
+time out occured!
+
+sending packet with sequence number 626
+time out occured!
+
+sending packet with sequence number 626
+time out occured!
+
+sending packet with sequence number 626
+time out occured!
+
+sending packet with sequence number 626
+time out occured!
+
+sending packet with sequence number 626
+ack received for packet 626
+
+sliding the window to the right...
+sending packet with sequence number 627
+sending packet with sequence number 628
+ack received for packet 627
+
+sliding the window to the right...
+ack received for packet 628
+
+sliding the window to the right...
+sending packet with sequence number 629
+sending packet with sequence number 630
+sending packet with sequence number 631
+sending packet with sequence number 632
+time out occured!
+
+sending packet with sequence number 629
+sending packet with sequence number 630
+ack received for packet 629
+
+sliding the window to the right...
+sending packet with sequence number 631
+sending packet with sequence number 632
+time out occured!
+
+sending packet with sequence number 630
+ack received for packet 630
+
+sliding the window to the right...
+sending packet with sequence number 631
+sending packet with sequence number 632
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+time out occured!
+
+sending packet with sequence number 631
+ack received for packet 631
+
+sliding the window to the right...
+sending packet with sequence number 632
+sending packet with sequence number 633
+time out occured!
+
+sending packet with sequence number 632
+time out occured!
+
+sending packet with sequence number 632
+ack received for packet 632
+
+sliding the window to the right...
+sending packet with sequence number 633
+sending packet with sequence number 634
+time out occured!
+
+sending packet with sequence number 633
+time out occured!
+
+sending packet with sequence number 633
+time out occured!
+
+sending packet with sequence number 633
+ack received for packet 633
+
+sliding the window to the right...
+sending packet with sequence number 634
+sending packet with sequence number 635
+time out occured!
+
+sending packet with sequence number 634
+time out occured!
+
+sending packet with sequence number 634
+ack received for packet 634
+
+sliding the window to the right...
+sending packet with sequence number 635
+sending packet with sequence number 636
+time out occured!
+
+sending packet with sequence number 635
+ack received for packet 635
+
+sliding the window to the right...
+sending packet with sequence number 636
+sending packet with sequence number 637
+ack received for packet 636
+
+sliding the window to the right...
+sending packet with sequence number 638
+ack received for packet 637
+
+sliding the window to the right...
+sending packet with sequence number 639
+sending packet with sequence number 640
+sending packet with sequence number 641
+time out occured!
+
+sending packet with sequence number 638
+sending packet with sequence number 639
+time out occured!
+
+sending packet with sequence number 638
+time out occured!
+
+sending packet with sequence number 638
+time out occured!
+
+sending packet with sequence number 638
+time out occured!
+
+sending packet with sequence number 638
+time out occured!
+
+sending packet with sequence number 638
+ack received for packet 638
+
+sliding the window to the right...
+sending packet with sequence number 639
+sending packet with sequence number 640
+ack received for packet 639
+
+sliding the window to the right...
+sending packet with sequence number 641
+ack received for packet 640
+
+sliding the window to the right...
+sending packet with sequence number 642
+sending packet with sequence number 643
+sending packet with sequence number 644
+ack received for packet 642
+
+time out occured!
+
+sending packet with sequence number 641
+sending packet with sequence number 642
+time out occured!
+
+sending packet with sequence number 641
+time out occured!
+
+sending packet with sequence number 641
+time out occured!
+
+sending packet with sequence number 641
+time out occured!
+
+sending packet with sequence number 641
+ack received for packet 641
+
+sliding the window to the right...
+sending packet with sequence number 642
+sending packet with sequence number 643
+time out occured!
+
+sending packet with sequence number 642
+ack received for packet 642
+
+sliding the window to the right...
+sending packet with sequence number 643
+sending packet with sequence number 644
+ack received for packet 643
+
+sliding the window to the right...
+sending packet with sequence number 645
+sending packet with sequence number 646
+ack received for packet 644
+
+sliding the window to the right...
+ack received for packet 645
+
+sliding the window to the right...
+sending packet with sequence number 647
+sending packet with sequence number 648
+sending packet with sequence number 649
+ack received for packet 646
+
+sliding the window to the right...
+sending packet with sequence number 650
+ack received for packet 647
+
+sliding the window to the right...
+sending packet with sequence number 651
+ack received for packet 648
+
+sliding the window to the right...
+ack received for packet 649
+
+sliding the window to the right...
+sending packet with sequence number 652
+sending packet with sequence number 653
+time out occured!
+
+sending packet with sequence number 650
+sending packet with sequence number 651
+ack received for packet 650
+
+sliding the window to the right...
+sending packet with sequence number 652
+sending packet with sequence number 653
+ack received for packet 651
+
+sliding the window to the right...
+sending packet with sequence number 654
+ack received for packet 652
+
+sliding the window to the right...
+sending packet with sequence number 655
+sending packet with sequence number 656
+ack received for packet 654
+
+time out occured!
+
+sending packet with sequence number 653
+sending packet with sequence number 654
+time out occured!
+
+sending packet with sequence number 653
+time out occured!
+
+sending packet with sequence number 653
+time out occured!
+
+sending packet with sequence number 653
+time out occured!
+
+sending packet with sequence number 653
+ack received for packet 653
+
+sliding the window to the right...
+sending packet with sequence number 654
+sending packet with sequence number 655
+ack received for packet 654
+
+sliding the window to the right...
+sending packet with sequence number 656
+ack received for packet 655
+
+sliding the window to the right...
+ack received for packet 656
+
+sliding the window to the right...
+sending packet with sequence number 657
+sending packet with sequence number 658
+sending packet with sequence number 659
+sending packet with sequence number 660
+ack received for packet 657
+
+sliding the window to the right...
+sending packet with sequence number 661
+ack received for packet 658
+
+sliding the window to the right...
+sending packet with sequence number 662
+ack received for packet 659
+
+sliding the window to the right...
+sending packet with sequence number 663
+ack received for packet 660
+
+sliding the window to the right...
+sending packet with sequence number 664
+time out occured!
+
+sending packet with sequence number 661
+sending packet with sequence number 662
+ack received for packet 661
+
+sliding the window to the right...
+sending packet with sequence number 663
+ack received for packet 662
+
+sliding the window to the right...
+sending packet with sequence number 664
+sending packet with sequence number 665
+sending packet with sequence number 666
+time out occured!
+
+sending packet with sequence number 663
+sending packet with sequence number 664
+time out occured!
+
+sending packet with sequence number 663
+ack received for packet 663
+
+sliding the window to the right...
+sending packet with sequence number 664
+sending packet with sequence number 665
+time out occured!
+
+sending packet with sequence number 664
+ack received for packet 664
+
+sliding the window to the right...
+sending packet with sequence number 665
+sending packet with sequence number 666
+time out occured!
+
+sending packet with sequence number 665
+time out occured!
+
+sending packet with sequence number 665
+ack received for packet 665
+
+sliding the window to the right...
+sending packet with sequence number 666
+sending packet with sequence number 667
+time out occured!
+
+sending packet with sequence number 666
+ack received for packet 666
+
+sliding the window to the right...
+sending packet with sequence number 667
+sending packet with sequence number 668
+ack received for packet 667
+
+sliding the window to the right...
+sending packet with sequence number 669
+sending packet with sequence number 670
+ack received for packet 668
+
+sliding the window to the right...
+sending packet with sequence number 671
+sending packet with sequence number 672
+time out occured!
+
+sending packet with sequence number 669
+sending packet with sequence number 670
+ack received for packet 669
+
+sliding the window to the right...
+ack received for packet 670
+
+sliding the window to the right...
+sending packet with sequence number 671
+sending packet with sequence number 672
+sending packet with sequence number 673
+sending packet with sequence number 674
+time out occured!
+
+sending packet with sequence number 671
+sending packet with sequence number 672
+time out occured!
+
+sending packet with sequence number 671
+time out occured!
+
+sending packet with sequence number 671
+time out occured!
+
+sending packet with sequence number 671
+time out occured!
+
+sending packet with sequence number 671
+time out occured!
+
+sending packet with sequence number 671
+time out occured!
+
+sending packet with sequence number 671
+ack received for packet 671
+
+sliding the window to the right...
+sending packet with sequence number 672
+ack received for packet 672
+
+sliding the window to the right...
+sending packet with sequence number 673
+sending packet with sequence number 674
+sending packet with sequence number 675
+time out occured!
+
+sending packet with sequence number 673
+ack received for packet 673
+
+sliding the window to the right...
+sending packet with sequence number 674
+sending packet with sequence number 675
+ack received for packet 674
+
+sliding the window to the right...
+sending packet with sequence number 676
+sending packet with sequence number 677
+ack received for packet 675
+
+sliding the window to the right...
+sending packet with sequence number 678
+sending packet with sequence number 679
+time out occured!
+
+sending packet with sequence number 676
+sending packet with sequence number 677
+ack received for packet 676
+
+sliding the window to the right...
+ack received for packet 677
+
+sliding the window to the right...
+sending packet with sequence number 678
+sending packet with sequence number 679
+sending packet with sequence number 680
+sending packet with sequence number 681
+ack received for packet 678
+
+sliding the window to the right...
+sending packet with sequence number 682
+ack received for packet 679
+
+sliding the window to the right...
+ack received for packet 680
+
+sliding the window to the right...
+sending packet with sequence number 683
+time out occured!
+
+sending packet with sequence number 681
+sending packet with sequence number 682
+ack received for packet 681
+
+sliding the window to the right...
+sending packet with sequence number 683
+time out occured!
+
+sending packet with sequence number 682
+ack received for packet 682
+
+sliding the window to the right...
+sending packet with sequence number 683
+ack received for packet 683
+
+time out occured!
+
+sending packet with sequence number 683
+Duration of transmission for a 1MB file sample.txt: 202863132 microseconds
